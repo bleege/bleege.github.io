@@ -15,6 +15,8 @@ Pins (aka location markers) and Callouts on instances of MKMapView are not autom
 
 Update your MKMapViewDelegate’s callOut and set annotationView objects to be accessible.
 
+{% highlight objective-c %}
+
 - (MKAnnotationView *)mapView:(MKMapView *)mv viewForAnnotation:(id )annotation
 {
 	NSString *identifier = @"PINIDENTIFIER";
@@ -31,5 +33,7 @@ Update your MKMapViewDelegate’s callOut and set annotationView objects to be a
 	}
 	return annotationView;
 }
+
+{% endhighlight %}
 
 Make sure any UIView that the MKMapView may be contained in the XIB has it’s accessibility option set to NO.  Not doing so will cause the map view to be accessible, when it’s only the pins and callouts that are desired.

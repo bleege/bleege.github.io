@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Hi!  I'm Brad Leege.  On this site you'll find soem [things I've written](/blog/) and a little bit about me.
+Hi!  I'm Brad Leege.  On this site you'll find some [things I've written](/blog/) and a little bit about me.
+
+<br clear="all">

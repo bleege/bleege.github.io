@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+Hi!  I'm Brad Leege.  On this site you'll find soem [things I've written](/blog/) and a little bit about me.

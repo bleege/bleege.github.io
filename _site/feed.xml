@@ -1,15 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-17T18:43:52-05:00</updated><id>http://localhost:4000/</id><title type="html">Brad Leege</title><subtitle>This is the personal Web site of Brad Leege.
-</subtitle><entry><title type="html">The Economist - “Not all roads lead to Google Maps”</title><link href="http://localhost:4000/2017/06/17/economist-digital-mapping.html" rel="alternate" type="text/html" title="The Economist - &quot;Not all roads lead to Google Maps&quot;" /><published>2017-06-17T13:00:00-05:00</published><updated>2017-06-17T13:00:00-05:00</updated><id>http://localhost:4000/2017/06/17/economist-digital-mapping</id><content type="html" xml:base="http://localhost:4000/2017/06/17/economist-digital-mapping.html">&lt;p&gt;&lt;img src=&quot;/images/20170617-economist-digital-maps.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Blogging about stuffs</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Jan 2018 22:14:14 -0600</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2018 22:14:14 -0600</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>The Economist - &quot;Not all roads lead to Google Maps&quot;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/20170617-economist-digital-maps.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This past week &lt;a href=&quot;http://www.economist.com&quot;&gt;The Economist&lt;/a&gt; published an article, &lt;a href=&quot;http://www.economist.com/news/business/21723173-not-all-roads-lead-google-maps-battle-territory-digital-cartography&quot;&gt;“The battle for territory in digital cartography”&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/halhod&quot;&gt;Hal Hodson&lt;/a&gt;, discussing how companies like &lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt; and &lt;a href=&quot;https://www.mapillary.com&quot;&gt;Mapillary&lt;/a&gt; are using community powered data from &lt;a href=&quot;https://www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;/a&gt;, crowdsourced imagery, and &lt;a href=&quot;https://www.mapbox.com/telemetry/&quot;&gt;anonymous real time GPS location data gathering from smartphones&lt;/a&gt; to compete with the likes of Google in the quest to develop autonomous vehicles.&lt;/p&gt;
 
-&lt;p&gt;Needless to say, I’m absolutely thrilled to see how my work at Mapbox, building the anonymous real time GPS location data gathering technology in the &lt;a href=&quot;https://www.mapbox.com/ios-sdk/&quot;&gt;Mapbox iOS&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/android-sdk/&quot;&gt;Android SDKs&lt;/a&gt;, continues to power Mapbox’s business today (&lt;a href=&quot;https://www.mapbox.com/directions/&quot;&gt;Directions&lt;/a&gt;, &lt;a href=&quot;https://www.mapbox.com/drive/&quot;&gt;Mapbox Drive&lt;/a&gt;, Maps, etc) as well as set the company up for future success.  In addition to this, two major things that I’m also very proud of in regards to this work are that fact the data is &lt;em&gt;collected anonymously&lt;/em&gt; and that it’s &lt;em&gt;shared openly&lt;/em&gt;.  Unlike many other tech companies, Mapbox has &lt;strong&gt;no way&lt;/strong&gt; to tie collected location data to specific and named people.  This was done on purpose.  This focus on privacy not only helps people feel safe using the technology, but also allows Mapbox to publish / donate this location data to OpenStreetMap so that everyone can benefit with the latest in map data collected from the real world.&lt;/p&gt;</content><author><name></name></author><category term="Economist" /><category term="maps" /><category term="opendata" /><category term="OpenStreetMap" /><category term="Google" /><category term="Mapbox" /><category term="Mapillary" /><category term="privacy" /><category term="mobile" /><category term="iOS" /><category term="Android" /><summary type="html"></summary></entry><entry><title type="html">New Web site</title><link href="http://localhost:4000/2017/06/07/new-site.html" rel="alternate" type="text/html" title="New Web site" /><published>2017-06-07T00:00:00-05:00</published><updated>2017-06-07T00:00:00-05:00</updated><id>http://localhost:4000/2017/06/07/new-site</id><content type="html" xml:base="http://localhost:4000/2017/06/07/new-site.html">&lt;p&gt;I’m excited to launch the next interation of my personal Web site today.  It brings back complete control over the content and design which will allow me to hopefully produce richer and more useful content.  I’ve also ported my site’s previous posts going back to 2012 so everything can be found on the same site.  I hope you enjoy it as much as I have creating it.&lt;/p&gt;
+&lt;p&gt;Needless to say, I’m absolutely thrilled to see how my work at Mapbox, building the anonymous real time GPS location data gathering technology in the &lt;a href=&quot;https://www.mapbox.com/ios-sdk/&quot;&gt;Mapbox iOS&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/android-sdk/&quot;&gt;Android SDKs&lt;/a&gt;, continues to power Mapbox’s business today (&lt;a href=&quot;https://www.mapbox.com/directions/&quot;&gt;Directions&lt;/a&gt;, &lt;a href=&quot;https://www.mapbox.com/drive/&quot;&gt;Mapbox Drive&lt;/a&gt;, Maps, etc) as well as set the company up for future success.  In addition to this, two major things that I’m also very proud of in regards to this work are that fact the data is &lt;em&gt;collected anonymously&lt;/em&gt; and that it’s &lt;em&gt;shared openly&lt;/em&gt;.  Unlike many other tech companies, Mapbox has &lt;strong&gt;no way&lt;/strong&gt; to tie collected location data to specific and named people.  This was done on purpose.  This focus on privacy not only helps people feel safe using the technology, but also allows Mapbox to publish / donate this location data to OpenStreetMap so that everyone can benefit with the latest in map data collected from the real world.&lt;/p&gt;
 
-&lt;p&gt;For those curious about the technical specs, it’s static site built using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and a self customized version of the &lt;a href=&quot;https://github.com/jekyll/minima&quot;&gt;minima&lt;/a&gt; theme.  Finally, it’s hosted on &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’m excited to launch the next interation of my personal Web site today. It brings back complete control over the content and design which will allow me to hopefully produce richer and more useful content. I’ve also ported my site’s previous posts going back to 2012 so everything can be found on the same site. I hope you enjoy it as much as I have creating it.</summary></entry><entry><title type="html">Mapbox Badgers</title><link href="http://localhost:4000/2016/08/27/mapbox-badgers.html" rel="alternate" type="text/html" title="Mapbox Badgers" /><published>2016-08-27T14:33:37-05:00</published><updated>2016-08-27T14:33:37-05:00</updated><id>http://localhost:4000/2016/08/27/mapbox-badgers</id><content type="html" xml:base="http://localhost:4000/2016/08/27/mapbox-badgers.html">&lt;p&gt;&lt;img src=&quot;/tumblr_files/tumblr_ocl2c1VZgZ1rsjbmgo1_1280.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Jun 2017 13:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2017/06/17/economist-digital-mapping.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/06/17/economist-digital-mapping.html</guid>
+        
+        <category>Economist</category>
+        
+        <category>maps</category>
+        
+        <category>opendata</category>
+        
+        <category>OpenStreetMap</category>
+        
+        <category>Google</category>
+        
+        <category>Mapbox</category>
+        
+        <category>Mapillary</category>
+        
+        <category>privacy</category>
+        
+        <category>mobile</category>
+        
+        <category>iOS</category>
+        
+        <category>Android</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>New Web site</title>
+        <description>&lt;p&gt;I’m excited to launch the next interation of my personal Web site today.  It brings back complete control over the content and design which will allow me to hopefully produce richer and more useful content.  I’ve also ported my site’s previous posts going back to 2012 so everything can be found on the same site.  I hope you enjoy it as much as I have creating it.&lt;/p&gt;
+
+&lt;p&gt;For those curious about the technical specs, it’s static site built using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and a self customized version of the &lt;a href=&quot;https://github.com/jekyll/minima&quot;&gt;minima&lt;/a&gt; theme.  Finally, it’s hosted on &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Jun 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2017/06/07/new-site.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/06/07/new-site.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mapbox Badgers</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/tumblr_files/tumblr_ocl2c1VZgZ1rsjbmgo1_1280.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Come join us next week at Science Hall on the &lt;a href=&quot;https://www.wisc.edu&quot;&gt;University of Wisconsin-Madison&lt;/a&gt; campus as I team up my fellow &lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt; Badger alums and friends to present a hands-on workshop about working with open source geography tools.  We’ll be covering a range of topics from &lt;a href=&quot;https://www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;/a&gt;, Javascript and the Web, building Mobile apps, and working with PostGIS.  Please bring questions and a laptop.  I look forward to seeing you there!&lt;/p&gt;
 
-&lt;p&gt;On Wisconsin!&lt;/p&gt;</content><author><name></name></author><category term="mapbox" /><category term="University of Wisconsin" /><category term="wisconsin" /><category term="geography" /><category term="education" /><category term="open source" /><category term="open data" /><category term="openstreetmap" /><category term="mobilee" /><category term="javascript" /><summary type="html"></summary></entry><entry><title type="html">Making a Travel Map Using Mapbox Studio</title><link href="http://localhost:4000/2016/05/07/making-a-travel-map-using-mapbox-studio-is.html" rel="alternate" type="text/html" title="Making a Travel Map Using Mapbox Studio" /><published>2016-05-07T21:00:49-05:00</published><updated>2016-05-07T21:00:49-05:00</updated><id>http://localhost:4000/2016/05/07/making-a-travel-map-using-mapbox-studio-is</id><content type="html" xml:base="http://localhost:4000/2016/05/07/making-a-travel-map-using-mapbox-studio-is.html">&lt;p&gt;&lt;img src=&quot;/tumblr_files/tumblr_o6u5ldOUv81rsjbmgo1_1280.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;On Wisconsin!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Aug 2016 14:33:37 -0500</pubDate>
+        <link>http://localhost:4000//2016/08/27/mapbox-badgers.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/08/27/mapbox-badgers.html</guid>
+        
+        <category>mapbox</category>
+        
+        <category>University of Wisconsin</category>
+        
+        <category>wisconsin</category>
+        
+        <category>geography</category>
+        
+        <category>education</category>
+        
+        <category>open source</category>
+        
+        <category>open data</category>
+        
+        <category>openstreetmap</category>
+        
+        <category>mobilee</category>
+        
+        <category>javascript</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Making a Travel Map Using Mapbox Studio</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/tumblr_files/tumblr_o6u5ldOUv81rsjbmgo1_1280.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Making a travel map using &lt;a href=&quot;https://www.mapbox.com/mapbox-studio/&quot;&gt;Mapbox Studio&lt;/a&gt; is incredibly fun and surprisingly quick to do.  I was able to create this map in less than 2 hours this afternoon by tweaking the stock Mapbox Dark style to remove visual clutter (Roads, City Names, Buildings, etc).  From there I uploaded a GeoJSON file that contained the US States outlines and names.  To finish it off I used the built it Data Filter tool to select the states that I’ve visited in order to color them blue.  To explore the map yourself it’s availalble at:&lt;/p&gt;
 
@@ -17,11 +105,68 @@
 
 &lt;p&gt;If you’re interested in making your own maps like this checkout the &lt;a href=&quot;https://www.mapbox.com/help/choropleth-studio-gl-pt-1/&quot;&gt;“Make a choropleth map with Mapbox part 1: create a style with Mapbox Studio”&lt;/a&gt; step by step tutorial.  It provides a great intoduction to the power and simplicity of the Mapbox Studio platform.&lt;/p&gt;
 
-&lt;p&gt;Happy Mapping!&lt;/p&gt;</content><author><name></name></author><category term="mapbox" /><category term="mapboxstudio" /><category term="geojson" /><category term="opendata" /><category term="maps" /><category term="travel" /><category term="webmaps" /><summary type="html"></summary></entry><entry><title type="html">Hey Mapbox How Do I Get To…</title><link href="http://localhost:4000/2016/01/30/hey-mapbox-how-do-i-get-to.html" rel="alternate" type="text/html" title="Hey Mapbox How Do I Get To..." /><published>2016-01-30T21:45:40-06:00</published><updated>2016-01-30T21:45:40-06:00</updated><id>http://localhost:4000/2016/01/30/hey-mapbox-how-do-i-get-to</id><content type="html" xml:base="http://localhost:4000/2016/01/30/hey-mapbox-how-do-i-get-to.html">&lt;p&gt;Earlier this month we released Android wrapper libraries for the Mapbox &lt;a href=&quot;https://www.mapbox.com/blog/android-geocoder-library/&quot;&gt;Geocoding&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/blog/android-directions-library/&quot;&gt;Directions&lt;/a&gt; API services to make adding Geocoding and Directions in your Android apps much easier.  Naturally I wanted to do just that so I built a demo app called &lt;a href=&quot;https://github.com/bleege/GoWhereISay&quot;&gt;Go Where I Say&lt;/a&gt; that uses Android’s stock Speech To Text API to generate Directions based on voice commands. Did I mention that Google Play Services is NOT required?  In other words it’s not only possible but it’s super easy to ask Mapbox for AND get directions to locations by using your voice inside your own apps without having to (rely on or) say “Hey Siri” or “Ok Google”.  Checkout out the &lt;a href=&quot;https://github.com/bleege/GoWhereISay&quot;&gt;source code&lt;/a&gt; to see for yourself how to add this to your own apps.&lt;/p&gt;
+&lt;p&gt;Happy Mapping!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 May 2016 21:00:49 -0500</pubDate>
+        <link>http://localhost:4000//2016/05/07/making-a-travel-map-using-mapbox-studio-is.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/05/07/making-a-travel-map-using-mapbox-studio-is.html</guid>
+        
+        <category>mapbox</category>
+        
+        <category>mapboxstudio</category>
+        
+        <category>geojson</category>
+        
+        <category>opendata</category>
+        
+        <category>maps</category>
+        
+        <category>travel</category>
+        
+        <category>webmaps</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hey Mapbox How Do I Get To...</title>
+        <description>&lt;p&gt;Earlier this month we released Android wrapper libraries for the Mapbox &lt;a href=&quot;https://www.mapbox.com/blog/android-geocoder-library/&quot;&gt;Geocoding&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/blog/android-directions-library/&quot;&gt;Directions&lt;/a&gt; API services to make adding Geocoding and Directions in your Android apps much easier.  Naturally I wanted to do just that so I built a demo app called &lt;a href=&quot;https://github.com/bleege/GoWhereISay&quot;&gt;Go Where I Say&lt;/a&gt; that uses Android’s stock Speech To Text API to generate Directions based on voice commands. Did I mention that Google Play Services is NOT required?  In other words it’s not only possible but it’s super easy to ask Mapbox for AND get directions to locations by using your voice inside your own apps without having to (rely on or) say “Hey Siri” or “Ok Google”.  Checkout out the &lt;a href=&quot;https://github.com/bleege/GoWhereISay&quot;&gt;source code&lt;/a&gt; to see for yourself how to add this to your own apps.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/tumblr_files/example-screen-recording.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="mapbox" /><category term="voice" /><category term="android" /><category term="directions" /><category term="geocoding" /><summary type="html">Earlier this month we released Android wrapper libraries for the Mapbox Geocoding and Directions API services to make adding Geocoding and Directions in your Android apps much easier. Naturally I wanted to do just that so I built a demo app called Go Where I Say that uses Android’s stock Speech To Text API to generate Directions based on voice commands. Did I mention that Google Play Services is NOT required? In other words it’s not only possible but it’s super easy to ask Mapbox for AND get directions to locations by using your voice inside your own apps without having to (rely on or) say “Hey Siri” or “Ok Google”. Checkout out the source code to see for yourself how to add this to your own apps.</summary></entry><entry><title type="html">I’m So Pumped to be Back in the Mapbox Garage</title><link href="http://localhost:4000/2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html" rel="alternate" type="text/html" title="I'm So Pumped to be Back in the Mapbox Garage" /><published>2016-01-19T10:45:45-06:00</published><updated>2016-01-19T10:45:45-06:00</updated><id>http://localhost:4000/2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage</id><content type="html" xml:base="http://localhost:4000/2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html">&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/BAulH5gTPyT/&quot;&gt;&lt;img src=&quot;/tumblr_files/tumblr_o17l89dXOY1rsjbmgo1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/tumblr_files/example-screen-recording.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jan 2016 21:45:40 -0600</pubDate>
+        <link>http://localhost:4000//2016/01/30/hey-mapbox-how-do-i-get-to.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/01/30/hey-mapbox-how-do-i-get-to.html</guid>
+        
+        <category>mapbox</category>
+        
+        <category>voice</category>
+        
+        <category>android</category>
+        
+        <category>directions</category>
+        
+        <category>geocoding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>I'm So Pumped to be Back in the Mapbox Garage</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/BAulH5gTPyT/&quot;&gt;&lt;img src=&quot;/tumblr_files/tumblr_o17l89dXOY1rsjbmgo1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I’m so pumped to be back in the @mapbox Garage this week! (at Mapbox)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My First Revolution On The Mapbox Rocket Ship</title><link href="http://localhost:4000/2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html" rel="alternate" type="text/html" title="My First Revolution On The Mapbox Rocket Ship" /><published>2016-01-16T16:32:15-06:00</published><updated>2016-01-16T16:32:15-06:00</updated><id>http://localhost:4000/2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship</id><content type="html" xml:base="http://localhost:4000/2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html">&lt;p&gt;This past week I was excited to celebrate my first anniversary as a full time member of &lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt;!  It’s been a fantastic experience where I’ve been able to learn many new things and gotten to explore cities that I previously hadn’t spent much time in.  My favorite part by far though has been getting to meet and more importantly getting to know a great group of people.  This is simulateously the  most empathetic, good humored, and smartest group of people that I’ve ever worked with.  It’s the combination of these traits that makes possible what we have been able to achieve together.&lt;/p&gt;
+&lt;p&gt;I’m so pumped to be back in the @mapbox Garage this week! (at Mapbox)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2016 10:45:45 -0600</pubDate>
+        <link>http://localhost:4000//2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>My First Revolution On The Mapbox Rocket Ship</title>
+        <description>&lt;p&gt;This past week I was excited to celebrate my first anniversary as a full time member of &lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt;!  It’s been a fantastic experience where I’ve been able to learn many new things and gotten to explore cities that I previously hadn’t spent much time in.  My favorite part by far though has been getting to meet and more importantly getting to know a great group of people.  This is simulateously the  most empathetic, good humored, and smartest group of people that I’ve ever worked with.  It’s the combination of these traits that makes possible what we have been able to achieve together.&lt;/p&gt;
 
 &lt;p&gt;Speaking of which, it’s hard to believe but in just this one year we:&lt;/p&gt;
 
@@ -36,7 +181,22 @@
 
 &lt;p&gt;All in all, it couldn’t have gone better from my perspective.  I’m incredibly grateful to be part of this team and to the people who helped get me here.&lt;/p&gt;
 
-&lt;p&gt;I can’t wait to see what we do together this year!&lt;/p&gt;</content><author><name></name></author><category term="mapbox" /><category term="anniversary" /><summary type="html">This past week I was excited to celebrate my first anniversary as a full time member of Mapbox! It’s been a fantastic experience where I’ve been able to learn many new things and gotten to explore cities that I previously hadn’t spent much time in. My favorite part by far though has been getting to meet and more importantly getting to know a great group of people. This is simulateously the most empathetic, good humored, and smartest group of people that I’ve ever worked with. It’s the combination of these traits that makes possible what we have been able to achieve together.</summary></entry><entry><title type="html">The Process Behind Flat</title><link href="http://localhost:4000/2015/07/04/the-process-behind-flat.html" rel="alternate" type="text/html" title="The Process Behind Flat" /><published>2015-07-04T10:49:04-05:00</published><updated>2015-07-04T10:49:04-05:00</updated><id>http://localhost:4000/2015/07/04/the-process-behind-flat</id><content type="html" xml:base="http://localhost:4000/2015/07/04/the-process-behind-flat.html">&lt;p&gt;&lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt; is a flat, decentralized organization with no org chart nor officially defined responsbilities.  It’s also made up of team members distributed across the globe with roughly equal numbers working in 1 of 4 physical offices as well as remotely from home offices.  To many people this type of environment may seem like chaos and impossible to build anything, none the less actually ship a major product.  I disagree.  &lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;Mapbox Mobile&lt;/a&gt; could only have been built in this environment.&lt;/p&gt;
+&lt;p&gt;I can’t wait to see what we do together this year!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jan 2016 16:32:15 -0600</pubDate>
+        <link>http://localhost:4000//2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html</guid>
+        
+        <category>mapbox</category>
+        
+        <category>anniversary</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Process Behind Flat</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt; is a flat, decentralized organization with no org chart nor officially defined responsbilities.  It’s also made up of team members distributed across the globe with roughly equal numbers working in 1 of 4 physical offices as well as remotely from home offices.  To many people this type of environment may seem like chaos and impossible to build anything, none the less actually ship a major product.  I disagree.  &lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;Mapbox Mobile&lt;/a&gt; could only have been built in this environment.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;Mapbox Mobile&lt;/a&gt; is a product that is encompasses many different technologies, features, designs, and philosophies.  There is no one city nor region in the world that could source the necessary people with the backgrounds and experiences needed to pull this off.&lt;/p&gt;
 
@@ -44,14 +204,88 @@
 
 &lt;p&gt;Open communication is the anchor in all of this.  We communicate constantly with one another using several different media.  &lt;a href=&quot;https://github.com/mapbox/&quot;&gt;GitHub&lt;/a&gt; tickets allow for detailing thought processes and iterating on ideas collaboratively.  We use &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; for real time chat to ask quick questions and for coordinating things on the fly.  While both GitHub and Slack are asychronous media, we use the power of the human voice daily to keep project momentum moving forward.&lt;/p&gt;
 
-&lt;p&gt;Voice can be incredibly powerful, but voice meetings can also be harmful if not managed correctly.  The whole point of our calls is to synchrously update everyone on what people have been working on, what they’ll be working on next, and what are blockers that they’re encountering.  Nothing more.  Nothing less.  The key to keeping them productive are simple and consisently applied rules that we all follow.  We always start with the most Eastern based person and move West person by person until everyone has a chance to give their updates.  This implicitly reminds people that there are others that need to give their updates and to keep their comments short and to the point (plus we also all really like geography).  To further drive the point home and keep us on task we also limit the calls to 15 minutes total.  The only variation on this is once per week we instead do a higher level topic discussion.  Those calls can go 20-30 minutes and are led by different team members depending on the topic that week.&lt;/p&gt;</content><author><name></name></author><category term="mapbox" /><category term="culture" /><category term="trust" /><category term="communication" /><category term="open" /><category term="tech" /><category term="business" /><category term="product" /><category term="startup" /><summary type="html">Mapbox is a flat, decentralized organization with no org chart nor officially defined responsbilities. It’s also made up of team members distributed across the globe with roughly equal numbers working in 1 of 4 physical offices as well as remotely from home offices. To many people this type of environment may seem like chaos and impossible to build anything, none the less actually ship a major product. I disagree. Mapbox Mobile could only have been built in this environment.</summary></entry><entry><title type="html">Building Mapbox Mobile</title><link href="http://localhost:4000/2015/05/23/building-mapbox-mobile.html" rel="alternate" type="text/html" title="Building Mapbox Mobile" /><published>2015-05-23T18:46:36-05:00</published><updated>2015-05-23T18:46:36-05:00</updated><id>http://localhost:4000/2015/05/23/building-mapbox-mobile</id><content type="html" xml:base="http://localhost:4000/2015/05/23/building-mapbox-mobile.html">&lt;p&gt;This week’s official launch of &lt;a href=&quot;https://techcrunch.com/2015/05/21/mapbox-takes-on-apple-with-an-sdk-to-put-maps-into-ios-apps/&quot;&gt;Mapbox Mobile&lt;/a&gt; was the culmination of a lot of hard wark done by a dedicated team of people distributed around the globe.  The end product is amazing (seriously you &lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;gotta play with this&lt;/a&gt;) with an equally impressive tech list, but the real story is how we pulled this all off working together as a unified team.&lt;/p&gt;
+&lt;p&gt;Voice can be incredibly powerful, but voice meetings can also be harmful if not managed correctly.  The whole point of our calls is to synchrously update everyone on what people have been working on, what they’ll be working on next, and what are blockers that they’re encountering.  Nothing more.  Nothing less.  The key to keeping them productive are simple and consisently applied rules that we all follow.  We always start with the most Eastern based person and move West person by person until everyone has a chance to give their updates.  This implicitly reminds people that there are others that need to give their updates and to keep their comments short and to the point (plus we also all really like geography).  To further drive the point home and keep us on task we also limit the calls to 15 minutes total.  The only variation on this is once per week we instead do a higher level topic discussion.  Those calls can go 20-30 minutes and are led by different team members depending on the topic that week.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Jul 2015 10:49:04 -0500</pubDate>
+        <link>http://localhost:4000//2015/07/04/the-process-behind-flat.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/07/04/the-process-behind-flat.html</guid>
+        
+        <category>mapbox</category>
+        
+        <category>culture</category>
+        
+        <category>trust</category>
+        
+        <category>communication</category>
+        
+        <category>open</category>
+        
+        <category>tech</category>
+        
+        <category>business</category>
+        
+        <category>product</category>
+        
+        <category>startup</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Building Mapbox Mobile</title>
+        <description>&lt;p&gt;This week’s official launch of &lt;a href=&quot;https://techcrunch.com/2015/05/21/mapbox-takes-on-apple-with-an-sdk-to-put-maps-into-ios-apps/&quot;&gt;Mapbox Mobile&lt;/a&gt; was the culmination of a lot of hard wark done by a dedicated team of people distributed around the globe.  The end product is amazing (seriously you &lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;gotta play with this&lt;/a&gt;) with an equally impressive tech list, but the real story is how we pulled this all off working together as a unified team.&lt;/p&gt;
 
 &lt;p&gt;This project certainly wasn’t anyone’s first rodeo, but it did come with a lot of unkowns.  Mapbox is a growing company which means new people coming on board and everyone working with people that they may not have worked with (or even met) before.  There were also &lt;strong&gt;A LOT&lt;/strong&gt; of moving tech pieces that many hadn’t worked with before nor we even knew we needed until we got into the project.  Finally, did I mention that the team was distributed across 5 countries and 6 different timezones?&lt;/p&gt;
 
-&lt;p&gt;So how’d we pull this off?  In a word: culture.  I’ve never been on a team that consistenty practices empathy, understanding for one another, openness, trust, and patience the way Mapbox does. Everybody on the team is it together and is there to support each other.  Whether that means helping someone understand new technology, being there to talk through an issue, asking questions, or even rearranging their work times to be available for others the members of the team consistently do this because they want to see not only the project succeed, but also their colleagues succeed.&lt;/p&gt;</content><author><name></name></author><category term="mapbox" /><category term="culture" /><category term="distributed" /><category term="trust" /><category term="empathy" /><summary type="html">This week’s official launch of Mapbox Mobile was the culmination of a lot of hard wark done by a dedicated team of people distributed around the globe. The end product is amazing (seriously you gotta play with this) with an equally impressive tech list, but the real story is how we pulled this all off working together as a unified team.</summary></entry><entry><title type="html">Joining Mapbox</title><link href="http://localhost:4000/2015/01/25/joining-mapbox.html" rel="alternate" type="text/html" title="Joining Mapbox" /><published>2015-01-25T12:47:02-06:00</published><updated>2015-01-25T12:47:02-06:00</updated><id>http://localhost:4000/2015/01/25/joining-mapbox</id><content type="html" xml:base="http://localhost:4000/2015/01/25/joining-mapbox.html">&lt;p&gt;&lt;a href=&quot;https://www.mapbox.com&quot;&gt;&lt;img src=&quot;/tumblr_files/tumblr_inline_niqx81wsq21r9my52.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So how’d we pull this off?  In a word: culture.  I’ve never been on a team that consistenty practices empathy, understanding for one another, openness, trust, and patience the way Mapbox does. Everybody on the team is it together and is there to support each other.  Whether that means helping someone understand new technology, being there to talk through an issue, asking questions, or even rearranging their work times to be available for others the members of the team consistently do this because they want to see not only the project succeed, but also their colleagues succeed.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2015 18:46:36 -0500</pubDate>
+        <link>http://localhost:4000//2015/05/23/building-mapbox-mobile.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/05/23/building-mapbox-mobile.html</guid>
+        
+        <category>mapbox</category>
+        
+        <category>culture</category>
+        
+        <category>distributed</category>
+        
+        <category>trust</category>
+        
+        <category>empathy</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Joining Mapbox</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.mapbox.com&quot;&gt;&lt;img src=&quot;/tumblr_files/tumblr_inline_niqx81wsq21r9my52.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Earlier this month I had the great fortune to officially &lt;a href=&quot;https://www.mapbox.com/blog/welcome-brad-leege/&quot;&gt;join the Mapbox team&lt;/a&gt;.  Mapbox is an amazing &lt;a href=&quot;https://www.mapbox.com/about/team/&quot;&gt;team of people&lt;/a&gt; who build tools to allow everyone to create their own custom designed maps for the Web, mobile devices, or even a &lt;a href=&quot;https://www.flickr.com/photos/mapbox/15487353502/&quot;&gt;canvas print for your wall&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;Mapbox at its core truly values and actively contributes not only to Open Source software but Open Data.  The maps are all powered by &lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;, which is like the Wikipedia for maps and geo data.  This data is all freely available to everyone in the world and even more importantly can be contributed to by anyone in a transparent way.  The software tools are also available on the &lt;a href=&quot;https://github.com/mapbox/&quot;&gt;Mapbox GitHub site&lt;/a&gt; for anyone to use and contribute to.&lt;/p&gt;
 
-&lt;p&gt;I know it’s cliche to say things like this, but as amazing as the technology is the people and culture there are even better.  I’ve never worked with an organization that truly values transparency and teamwork across the entire organization the way Mapbox does.  No matter how small the detail or process, everything is setup and run in a way to promote collaboration, personal empowerment / growth, and trust.  Mapbox truly walks the talk and I couldn’t be happier to work with people like this.&lt;/p&gt;</content><author><name></name></author><category term="mapbox" /><category term="mobile" /><category term="openstreetmap" /><category term="open data" /><category term="opendata" /><category term="open source" /><category term="opensource" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;I know it’s cliche to say things like this, but as amazing as the technology is the people and culture there are even better.  I’ve never worked with an organization that truly values transparency and teamwork across the entire organization the way Mapbox does.  No matter how small the detail or process, everything is setup and run in a way to promote collaboration, personal empowerment / growth, and trust.  Mapbox truly walks the talk and I couldn’t be happier to work with people like this.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 12:47:02 -0600</pubDate>
+        <link>http://localhost:4000//2015/01/25/joining-mapbox.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/01/25/joining-mapbox.html</guid>
+        
+        <category>mapbox</category>
+        
+        <category>mobile</category>
+        
+        <category>openstreetmap</category>
+        
+        <category>open data</category>
+        
+        <category>opendata</category>
+        
+        <category>open source</category>
+        
+        <category>opensource</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

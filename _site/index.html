@@ -1,126 +1,439 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Your New Jekyll Site - Blogging about stuffs</title>
+    <meta name="description" content="Your New Jekyll Site, Blogging about stuffs" />
 
-  <title>Brad Leege</title>
-  <meta name="description" content="This is the personal Web site of Brad Leege.">
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/rss+xml" title="Brad Leege" href="/feed.xml">
-  
-  
+    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <!-- Customisation  -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+
 </head>
+<body class="home-template">
 
-
-  <body>
-
-    <header class="site-header" role="banner">
-
-  <div class="wrapper">
-    
-    
-    <a class="site-title" href="/">Brad Leege</a>
-  
-    
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger">
-          
+    <header class="main-header no-cover">
+    <nav class="main-nav overlay clearfix">
             
-            
-            <a class="page-link" href="/about/">About</a>
-            
-          
-            
-            
-            <a class="page-link" href="/blog/">Blog</a>
-            
-          
-            
-            
-          
-            
-            
-          
-            
-            
-          
+        <a class="subscribe-button icon-feed" href="/feed.xml">Subscribe</a>
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">Your New Jekyll Site</h1>
+            <h2 class="page-description">
+                 Blogging about stuffs. 
+                 <a href='/about.html'> About me </a> 
+            </h2>
         </div>
-      </nav>
-    
-  </div>
+    </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home">
-  
-  <p>Hi!  I’m Brad Leege.  On this site you’ll find some <a href="/blog/">things I’ve written</a> and a little bit about me.</p>
-
-<p><br clear="all" /></p>
+<main id="content" class="content" role="main">
 
 
-  
-
-  <p><i>Latest blog post...</i></p>
-
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-    <header class="post-header">
-      <h3>The Economist - &quot;Not all roads lead to Google Maps&quot;</h3>
-      <p class="post-meta">
-        <time datetime="2017-06-17T13:00:00-05:00" itemprop="datePublished">
-          
-          Jun 17, 2017
-        </time>
-        </p>
-    </header>
-
-    <div class="post-content" itemprop="articleBody">
-      <p><img src="/images/20170617-economist-digital-maps.jpg" alt="" /></p>
-
-<p>This past week <a href="http://www.economist.com">The Economist</a> published an article, <a href="http://www.economist.com/news/business/21723173-not-all-roads-lead-google-maps-battle-territory-digital-cartography">“The battle for territory in digital cartography”</a> by <a href="https://twitter.com/halhod">Hal Hodson</a>, discussing how companies like <a href="https://www.mapbox.com">Mapbox</a> and <a href="https://www.mapillary.com">Mapillary</a> are using community powered data from <a href="https://www.openstreetmap.org">OpenStreetMap</a>, crowdsourced imagery, and <a href="https://www.mapbox.com/telemetry/">anonymous real time GPS location data gathering from smartphones</a> to compete with the likes of Google in the quest to develop autonomous vehicles.</p>
-
-<p>Needless to say, I’m absolutely thrilled to see how my work at Mapbox, building the anonymous real time GPS location data gathering technology in the <a href="https://www.mapbox.com/ios-sdk/">Mapbox iOS</a> and <a href="https://www.mapbox.com/android-sdk/">Android SDKs</a>, continues to power Mapbox’s business today (<a href="https://www.mapbox.com/directions/">Directions</a>, <a href="https://www.mapbox.com/drive/">Mapbox Drive</a>, Maps, etc) as well as set the company up for future success.  In addition to this, two major things that I’m also very proud of in regards to this work are that fact the data is <em>collected anonymously</em> and that it’s <em>shared openly</em>.  Unlike many other tech companies, Mapbox has <strong>no way</strong> to tie collected location data to specific and named people.  This was done on purpose.  This focus on privacy not only helps people feel safe using the technology, but also allows Mapbox to publish / donate this location data to OpenStreetMap so that everyone can benefit with the latest in map data collected from the real world.</p>
-
-
+    <div class="extra-pagination inner">
+        <nav class="pagination" role="pagination">
+    
+    <span class="page-number"> Page 1 of 3 </span>
+     
+        <a class="older-posts" href="/page2/" title="Next Page">Older Posts &raquo;</a>
+     
+</nav>
     </div>
 
-  </article>
+    
 
-  <div align="right">
-      <a href="/blog">....More blog posts</a>
-  </div>
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2017/06/17/economist-digital-mapping.html">The Economist - "Not all roads lead to Google Maps"</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><img src="/images/20170617-economist-digital-maps.jpg" alt="" /></p>
 
-</div>
-      </div>
-    </main>
+ <a class="read-more" href="/2017/06/17/economist-digital-mapping.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2017-06-17">
+                17 Jun 2017
+            </time> 
+        </footer>
+    </article>
 
-    <footer class="site-footer">
+    
 
-  <p align="center">
-  Copyright &copy; 2012 to &#x221e; Brad Leege
-  </p>
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2017/06/07/new-site.html">New Web site</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>I’m excited to launch the next interation of my personal Web site today.  It brings back complete control over the content and design which will allow me to hopefully produce richer and more useful content.  I’ve also ported my site’s previous posts going back to 2012 so everything can be found on the same site.  I hope you enjoy it as much as I have creating it.</p>
 
-</footer>
+ <a class="read-more" href="/2017/06/07/new-site.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2017-06-07">
+                07 Jun 2017
+            </time> 
+        </footer>
+    </article>
 
+    
 
-  </body>
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2016/08/27/mapbox-badgers.html">Mapbox Badgers</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><img src="/tumblr_files/tumblr_ocl2c1VZgZ1rsjbmgo1_1280.png" alt="" /></p>
 
+ <a class="read-more" href="/2016/08/27/mapbox-badgers.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2016-08-27">
+                27 Aug 2016
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2016/05/07/making-a-travel-map-using-mapbox-studio-is.html">Making a Travel Map Using Mapbox Studio</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><img src="/tumblr_files/tumblr_o6u5ldOUv81rsjbmgo1_1280.png" alt="" /></p>
+
+ <a class="read-more" href="/2016/05/07/making-a-travel-map-using-mapbox-studio-is.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2016-05-07">
+                07 May 2016
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2016/01/30/hey-mapbox-how-do-i-get-to.html">Hey Mapbox How Do I Get To...</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>Earlier this month we released Android wrapper libraries for the Mapbox <a href="https://www.mapbox.com/blog/android-geocoder-library/">Geocoding</a> and <a href="https://www.mapbox.com/blog/android-directions-library/">Directions</a> API services to make adding Geocoding and Directions in your Android apps much easier.  Naturally I wanted to do just that so I built a demo app called <a href="https://github.com/bleege/GoWhereISay">Go Where I Say</a> that uses Android’s stock Speech To Text API to generate Directions based on voice commands. Did I mention that Google Play Services is NOT required?  In other words it’s not only possible but it’s super easy to ask Mapbox for AND get directions to locations by using your voice inside your own apps without having to (rely on or) say “Hey Siri” or “Ok Google”.  Checkout out the <a href="https://github.com/bleege/GoWhereISay">source code</a> to see for yourself how to add this to your own apps.</p>
+
+ <a class="read-more" href="/2016/01/30/hey-mapbox-how-do-i-get-to.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2016-01-30">
+                30 Jan 2016
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html">I'm So Pumped to be Back in the Mapbox Garage</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><a href="https://www.instagram.com/p/BAulH5gTPyT/"><img src="/tumblr_files/tumblr_o17l89dXOY1rsjbmgo1_1280.jpg" alt="" /></a></p>
+
+ <a class="read-more" href="/2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2016-01-19">
+                19 Jan 2016
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html">My First Revolution On The Mapbox Rocket Ship</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>This past week I was excited to celebrate my first anniversary as a full time member of <a href="https://www.mapbox.com">Mapbox</a>!  It’s been a fantastic experience where I’ve been able to learn many new things and gotten to explore cities that I previously hadn’t spent much time in.  My favorite part by far though has been getting to meet and more importantly getting to know a great group of people.  This is simulateously the  most empathetic, good humored, and smartest group of people that I’ve ever worked with.  It’s the combination of these traits that makes possible what we have been able to achieve together.</p>
+
+ <a class="read-more" href="/2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2016-01-16">
+                16 Jan 2016
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2015/07/04/the-process-behind-flat.html">The Process Behind Flat</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><a href="https://www.mapbox.com">Mapbox</a> is a flat, decentralized organization with no org chart nor officially defined responsbilities.  It’s also made up of team members distributed across the globe with roughly equal numbers working in 1 of 4 physical offices as well as remotely from home offices.  To many people this type of environment may seem like chaos and impossible to build anything, none the less actually ship a major product.  I disagree.  <a href="https://www.mapbox.com/mobile/">Mapbox Mobile</a> could only have been built in this environment.</p>
+
+ <a class="read-more" href="/2015/07/04/the-process-behind-flat.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2015-07-04">
+                04 Jul 2015
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2015/05/23/building-mapbox-mobile.html">Building Mapbox Mobile</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>This week’s official launch of <a href="https://techcrunch.com/2015/05/21/mapbox-takes-on-apple-with-an-sdk-to-put-maps-into-ios-apps/">Mapbox Mobile</a> was the culmination of a lot of hard wark done by a dedicated team of people distributed around the globe.  The end product is amazing (seriously you <a href="https://www.mapbox.com/mobile/">gotta play with this</a>) with an equally impressive tech list, but the real story is how we pulled this all off working together as a unified team.</p>
+
+ <a class="read-more" href="/2015/05/23/building-mapbox-mobile.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2015-05-23">
+                23 May 2015
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2015/01/25/joining-mapbox.html">Joining Mapbox</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><a href="https://www.mapbox.com"><img src="/tumblr_files/tumblr_inline_niqx81wsq21r9my52.png" alt="" /></a></p>
+
+ <a class="read-more" href="/2015/01/25/joining-mapbox.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2015-01-25">
+                25 Jan 2015
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2014/11/23/apple-support-amd-radeon-6970m-video-card.html">Apple Support: AMD Radeon 6970M Video Card Replacement Program </a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><a href="https://support.apple.com/en-us/HT203787">Apple Support: AMD Radeon 6970M Video Card Replacement Program</a></p>
+
+ <a class="read-more" href="/2014/11/23/apple-support-amd-radeon-6970m-video-card.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2014-11-23">
+                23 Nov 2014
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2014/10/26/os-x-yosemite-display-grays-out.html">OS X Yosemite Display Grays Out</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><a href="https://discussions.apple.com/thread/6624349">OS X Yosemite Display Grays Out</a></p>
+
+ <a class="read-more" href="/2014/10/26/os-x-yosemite-display-grays-out.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2014-10-26">
+                26 Oct 2014
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2014/05/28/releasing-mapbox-android-sdk-today.html">Releasing Mapbox Android SDK Today</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>I have had the great privilege of getting to work with the <a href="https://www.mapbox.com/">Mapbox</a> team and other open source contributors since January on the brand new Mapbox Android SDK.  Today the first supported version was officially released!  While there’s still a lot more to do, it’s an exciting day as it’s now possible to get all the amazing OpenStreetMap powered maps (Satellite, Terrain, Street) on Android as first class citizens.  For more information check out the <a href="https://www.mapbox.com/blog/android-sdk/">blog posting on the release</a>.  Also be sure to check out the <a href="https://play.google.com/store/apps/details?id=com.mapbox.mapboxandroiddemo">free demo app</a> that’s available on Google Play.</p>
+
+ <a class="read-more" href="/2014/05/28/releasing-mapbox-android-sdk-today.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2014-05-28">
+                28 May 2014
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2014/04/12/state-of-the-map-2014-day-1.html">State of the Map 2014 Day 1</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><img src="/tumblr_files/tumblr_n3yb79WfRX1rsjbmgo1_1280.jpg" alt="" /></p>
+
+ <a class="read-more" href="/2014/04/12/state-of-the-map-2014-day-1.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2014-04-12">
+                12 Apr 2014
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/2014/02/21/blogging-vs-building.html">Blogging vs. Building</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p><a href="https://medium.com/on-startups/blogging-vs-building-bc6893bb5cd5">Blogging vs. Building</a></p>
+
+ <a class="read-more" href="/2014/02/21/blogging-vs-building.html">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            
+                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                Your Name
+            
+            
+            <time class="post-date" datetime="2014-02-21">
+                21 Feb 2014
+            </time> 
+        </footer>
+    </article>
+
+    
+
+    <nav class="pagination" role="pagination">
+    
+    <span class="page-number"> Page 1 of 3 </span>
+     
+        <a class="older-posts" href="/page2/" title="Next Page">Older Posts &raquo;</a>
+     
+</nav>
+
+</main>
+
+    <footer class="site-footer clearfix">
+      <section class="copyright">
+        <a href="/">Your New Jekyll Site</a> &copy; 
+              2018 &bull; All rights reserved.
+      </section>
+      <section class="poweredby">Made with Jekyll using 
+        <a href="http://github.com/rosario/kasper">Kasper theme</a>
+      </section>
+    </footer>
+    
+    <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/assets/js/index.js"></script>
+
+    <!-- Google Analytics Tracking code -->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-XXXXXXXX-X']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>   
+</body>
 </html>

@@ -1,6 +1,6 @@
 name: Brad Leege
 # description: 
-meta_description: "Brad Leege Meta"
+# meta_description: 
 
 markdown: kramdown
 highlighter: pygments

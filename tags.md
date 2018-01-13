@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Tags 
+title: Blog posts by tag 
 ---
-
-My blog posts sorted by tag
 
 <ul class="tags">
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
-  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+  <li><a href="/tags.html#{{t | downcase | replace:" ","-" }}">{{t | downcase | replace:" ","-" }}</a></li>
 {% endfor %}
 </ul>
 
@@ -17,7 +15,11 @@ My blog posts sorted by tag
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-{{ t | downcase }}
+
+
+<h4 id="{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</h4>
+
+
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}

@@ -4,21 +4,22 @@ title: Blog posts by tag
 ---
 
 <ul class="tags">
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
+{% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+
   <li><a href="/tags.html#{{t | downcase | replace:" ","-" }}">{{t | downcase | replace:" ","-" }}</a></li>
-{% endfor %}
+
+  {% endfor %}
 </ul>
 
+
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-
-
 <h4 id="{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</h4>
-
 
 <ul>
 {% for post in posts %}

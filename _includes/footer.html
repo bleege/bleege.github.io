@@ -1,7 +1,22 @@
-<footer class="site-footer">
+        <footer class="post-footer">
+            <!-- If we want to display author's name and bio -->
+            {% if site.author %}
+                <section class="author">
+                    <!-- Author Name -->
+                    <h4> {{ site.author }} </h4>
+                    <!-- Author Bio -->
+                    <p>
+                        Software engineer, traveler, learner, partner, and TBD living in Madison, Wisconsin.
+                    </p>
+                </section>
+            {% endif %}
 
-  <p align="center">
-  Copyright &copy; 2012 to &#x221e; Brad Leege
-  </p>
+            <!-- Share links section -->
+            {% include share.html %}
 
-</footer>
+            <!-- Disqus comments -->
+            {% if page.disqus %}
+                {% include disqus.html %}
+            {% endif %}
+
+        </footer>

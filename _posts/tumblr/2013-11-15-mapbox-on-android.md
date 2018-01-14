@@ -5,12 +5,14 @@ date: '2013-11-15T11:13:00-06:00'
 tags:
 - mapbox
 - android
-- OpenStreetMap
-- open source
-- OSMDroid
+- openstreetmap
+- opensource
+- osmdroid
 tumblr_url: http://bleege.tumblr.com/post/67067786840/mapbox-on-android
 ---
+<!--excerpt.start-->
 I’m a big fan of the work that [MapBox](https://www.mapbox.com) has done with [OpenStreetMap](https://www.openstreetmap.org/) and the great [open source tools](https://www.mapbox.com/developers/) that they provide for building custom maps.
+<!--excerpt.end-->
 
 However after searching the Web and talking with MapBox Engineers I discovered that there is no support for Android, [nor are there any plans to do so](https://www.mapbox.com/help/#android-sdk).  This bugged me as I want to make use of their maps on some Android projects, so I did some research and built a solution.
 

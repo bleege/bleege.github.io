@@ -1,0 +1,61 @@
+---
+layout: default
+title: Home
+cover: false
+about: 'about.html'
+pagination: 
+  enabled: true
+---
+
+<header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+    <nav class="main-nav overlay clearfix">
+            {% if page.logo %}
+                <a class="blog-logo" href="{{ site.baseurl }}">
+                    <img src="{{ page.logo }}" alt="Blog Logo" />
+                </a>
+            {% endif %}
+        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">{{ site.name }}</h1>
+            <h2 class="page-description">
+                {% if site.description %} {{ site.description }}. {% endif %}
+                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me</a> {% endif %}
+                &nbsp;&nbsp;
+                <a href="/tags.html">Posts by tag</a>
+            </h2>
+        </div>
+    </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+</header>
+
+
+<main id="content" class="content" role="main">
+
+    {% for post in paginator.posts %}
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <section class="post-excerpt">
+
+{% if post.content contains "<!--excerpt.start-->" and post.content contains "<!--excerpt.end-->" %}
+    {{ post.content | split:"<!--excerpt.start-->" | last | split: "<!--excerpt.end-->" | first) | strip_html  }}
+{% else %}
+    {{ post.excerpt | strip_html }}
+{% endif %}
+
+            <p><a class="read-more" href="{{ post.url }}">[Read more]</a></p>
+        </section>
+        <footer class="post-meta">
+                {{ post.date | date: '%B %d, %Y' }}
+        </footer>
+    </article>
+
+    {% endfor %}
+
+    {% include pagination.html %}
+
+</main>

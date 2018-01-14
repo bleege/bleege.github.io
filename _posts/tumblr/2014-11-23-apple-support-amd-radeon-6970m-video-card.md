@@ -8,8 +8,8 @@ tags:
 - amd
 - videocard
 - customerservice
-- os x yosemite
 - osx
+- macos
 tumblr_url: http://bleege.tumblr.com/post/103419739772/apple-support-amd-radeon-6970m-video-card
 ---
 [Apple Support: AMD Radeon 6970M Video Card Replacement Program](https://support.apple.com/en-us/HT203787)

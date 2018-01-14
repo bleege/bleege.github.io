@@ -5,7 +5,7 @@ date: '2014-10-26T12:34:00-05:00'
 tags:
 - apple
 - osx
-- os x yosemite
+- macos
 - displaypolicyd
 tumblr_url: http://bleege.tumblr.com/post/101008783822/os-x-yosemite-display-grays-out
 ---

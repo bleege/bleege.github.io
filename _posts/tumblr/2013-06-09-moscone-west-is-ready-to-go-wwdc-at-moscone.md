@@ -5,6 +5,8 @@ date: '2013-06-09T16:15:19-05:00'
 tags:
 - wwdc
 - apple
+- conferences
+- ios
 tumblr_url: http://bleege.tumblr.com/post/52573642433/moscone-west-is-ready-to-go-wwdc-at-moscone
 ---
 

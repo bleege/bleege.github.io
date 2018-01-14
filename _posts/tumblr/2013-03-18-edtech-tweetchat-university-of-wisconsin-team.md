@@ -3,14 +3,14 @@ layout: post
 title: EdTech Tweetchat - University of Wisconsin Team
 date: '2013-03-18T21:04:24-05:00'
 tags:
-- Mobile
-- Mobile UW
-- iPhone
-- iOS
-- Android
-- HigherEd
-- University of Wisconsin
-- Wisconsin
+- mobile
+- mobile uw
+- ios
+- android
+- highered
+- education
+- university of wisconsin
+- wisconsin
 tumblr_url: http://bleege.tumblr.com/post/45723947439/edtech-tweetchat-university-of-wisconsin-team
 ---
 

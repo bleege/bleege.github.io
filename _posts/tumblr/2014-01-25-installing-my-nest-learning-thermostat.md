@@ -7,7 +7,8 @@ tags:
 - thermostat
 - design
 - user experience
-- userex
+- ux
+- iot
 tumblr_url: http://bleege.tumblr.com/post/74530063650/installing-my-nest-learning-thermostat
 ---
 <!--excerpt.start-->

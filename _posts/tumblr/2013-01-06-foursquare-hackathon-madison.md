@@ -3,15 +3,17 @@ layout: post
 title: Foursquare Hackathon Madison
 date: '2013-01-06T17:41:00-06:00'
 tags:
-- .NET
-- 4sqhackathon
-- Java
-- Node.js
-- SnowShow Stamp
-- entrepreneurship
-- foursquare
+- dotnet
 - hackathon
-- Madison
+- foursquarehackathon
+- foursquare
+- java
+- node.js
+- javascript
+- snowshowstamp
+- entrepreneurship
+- madison
+- community
 tumblr_url: http://bleege.tumblr.com/post/39878710304/foursquare-hackathon-madison
 ---
 <!--excerpt.start-->

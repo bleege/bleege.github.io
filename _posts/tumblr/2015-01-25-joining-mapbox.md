@@ -5,10 +5,10 @@ date: '2015-01-25T12:47:02-06:00'
 tags:
 - mapbox
 - mobile
+- ios
+- android
 - openstreetmap
-- open data
 - opendata
-- open source
 - opensource
 tumblr_url: http://bleege.tumblr.com/post/109123079862/joining-mapbox
 ---

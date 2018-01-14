@@ -9,6 +9,7 @@ tags:
 - opensource
 - map
 - android
+- productdevelopment
 tumblr_url: http://bleege.tumblr.com/post/87149232617/releasing-mapbox-android-sdk-today
 ---
 <!--excerpt.start-->

@@ -6,11 +6,12 @@ tags:
 - mooc
 - data
 - dataanalysis
+- datascience
 - r
 - statistics
-- Education
-- Johns Hopkins
-- Coursera
+- education
+- johns hopkins
+- coursera
 tumblr_url: http://bleege.tumblr.com/post/43327926766/computing-for-data-analysis-mooc
 ---
 <!--excerpt.start-->

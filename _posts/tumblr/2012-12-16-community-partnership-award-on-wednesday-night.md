@@ -3,16 +3,18 @@ layout: post
 title: Community Partnership Award
 date: '2012-12-16T10:50:56-06:00'
 tags:
-- Madison
-- Madison Metro
-- Greg Tracy
-- Open Data
-- Data
-- Mobile UW
-- iPhone
-- Android
-- Transit
-- Open Gov
+- madison
+- madison metro
+- greg tracy
+- opendata
+- data
+- mobile uw
+- ios
+- android
+- transit
+- transportation
+- community
+- open government
 tumblr_url: http://bleege.tumblr.com/post/38070545530/community-partnership-award-on-wednesday-night
 ---
 

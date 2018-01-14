@@ -2,7 +2,8 @@
 layout: post
 title: I'm So Pumped to be Back in the Mapbox Garage
 date: '2016-01-19T10:45:45-06:00'
-tags: []
+tags:
+- mapbox
 tumblr_url: http://bleege.tumblr.com/post/137626868577/im-so-pumped-to-be-back-in-the-mapbox-garage
 ---
 

@@ -3,11 +3,16 @@ layout: post
 title: 'Mobile in Madison: Tweet Chat with Wisconsin''s Mobile Team'
 date: '2013-03-20T21:56:56-05:00'
 tags:
-- Mobile UW
+- mobile uw
 - mobile
 - highered
 - edtech101
-- University of Wisconsin
+- education
+- university of wisconsin
+- wisconsin
+- madison
+- ios
+- android
 tumblr_url: http://bleege.tumblr.com/post/45887431248/mobile-in-madison-tweet-chat-with-wisconsins
 ---
 

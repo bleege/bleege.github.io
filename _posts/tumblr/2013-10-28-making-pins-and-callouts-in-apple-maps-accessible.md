@@ -5,10 +5,11 @@ date: '2013-10-28T12:27:53-05:00'
 tags:
 - accessibility
 - ios
-- map
+- maps
 - mapkit
 - mkmapview
 - apple
+- applemaps
 tumblr_url: http://bleege.tumblr.com/post/65348339000/making-pins-and-callouts-in-apple-maps-accessible
 ---
 <!--excerpt.start-->

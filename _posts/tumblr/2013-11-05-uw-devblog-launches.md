@@ -4,11 +4,13 @@ title: UW DevBlog Launches
 date: '2013-11-05T13:55:19-06:00'
 tags:
 - uw
-- University of Wisconsin
+- university of wisconsin
 - mobile
 - webdevelopment
 - jekyll
 - markdown
+- community
+- blog
 tumblr_url: http://bleege.tumblr.com/post/66113640364/uw-devblog-launches
 ---
 <!--excerpt.start-->

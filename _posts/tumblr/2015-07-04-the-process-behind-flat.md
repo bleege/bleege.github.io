@@ -7,11 +7,11 @@ tags:
 - culture
 - trust
 - communication
-- open
 - tech
 - business
 - product
 - startup
+- process
 tumblr_url: http://bleege.tumblr.com/post/123206744127/the-process-behind-flat
 ---
 <!--excerpt.start-->

@@ -4,10 +4,15 @@ title: Healthcare.gov and the Gulf Between Planning and Reality by Clay Shirky
 date: '2013-11-19T18:33:26-06:00'
 tags:
 - technology
-- Healthcare
+- healthcare
 - public sector
 - clay shirky
 - agile
+- process
+- business
+- projectmanagement
+- productmanagement
+- productmanagement
 tumblr_url: http://bleege.tumblr.com/post/67513008602/healthcaregov-and-the-gulf-between-planning-and
 ---
 

@@ -8,6 +8,8 @@ tags:
 - distributed
 - trust
 - empathy
+- business
+- startup
 tumblr_url: http://bleege.tumblr.com/post/119719036272/building-mapbox-mobile
 ---
 <!--excerpt.start-->

@@ -15,6 +15,7 @@ tags:
 - travel
 - untappd
 - mapbox
+- maps
 tumblr_url: http://bleege.tumblr.com/post/37532242820/this-is-my-latest-personal-project-called-fc
 ---
 

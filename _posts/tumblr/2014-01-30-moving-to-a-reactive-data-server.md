@@ -4,11 +4,12 @@ title: Moving To A Reactive Data Server
 date: '2014-01-30T19:02:52-06:00'
 tags:
 - asynchronous
-- Scala
-- PlayFramework
+- scala
+- playframework
 - mongodb
-- Mobile UW
+- mobile uw
 - mobile
+- university of wisconsin
 tumblr_url: http://bleege.tumblr.com/post/75100466838/moving-to-a-reactive-data-server
 ---
 

@@ -8,6 +8,7 @@ tags:
 - android
 - directions
 - geocoding
+- mobile
 tumblr_url: http://bleege.tumblr.com/post/138384486952/hey-mapbox-how-do-i-get-to
 ---
 <!--excerpt.start-->

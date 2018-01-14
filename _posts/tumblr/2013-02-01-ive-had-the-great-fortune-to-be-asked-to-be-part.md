@@ -3,11 +3,12 @@ layout: post
 title: Launch Team For "Why Managing Sucks and How To Fix It" Book
 date: '2013-02-01T14:48:14-06:00'
 tags:
-- Business
-- Productivity
-- Results
-- ROWE
+- business
+- productivity
+- results
+- rowe
 - culture
+- books
 tumblr_url: http://bleege.tumblr.com/post/42042501281/ive-had-the-great-fortune-to-be-asked-to-be-part
 ---
 

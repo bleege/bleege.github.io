@@ -3,14 +3,13 @@ layout: post
 title: Mobile UW 1.5 Released
 date: '2013-01-18T11:16:00-06:00'
 tags:
-- Mobile UW
-- iPhone
-- Android
-- iPad
-- Nexus
-- University of Wisconsin
-- Wisconsin
-- Madison
+- mobile uw
+- ios
+- android
+- nexus
+- university of wisconsin
+- wisconsin
+- madison
 tumblr_url: http://bleege.tumblr.com/post/40850394747/mobile-uw-15-released-last-night-we-released
 ---
 

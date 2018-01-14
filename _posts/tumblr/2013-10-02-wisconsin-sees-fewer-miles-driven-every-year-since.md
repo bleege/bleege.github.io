@@ -4,9 +4,9 @@ title: Wisconsin Sees Fewer Miles Driven Every Year Since 2004
 date: '2013-10-02T21:23:30-05:00'
 tags:
 - mobile
-- Mobile UW
-- open data
-- open gov
+- mobile uw
+- opendata
+- open goverment
 - civic hacking
 tumblr_url: http://bleege.tumblr.com/post/62957912513/wisconsin-sees-fewer-miles-driven-every-year-since
 ---

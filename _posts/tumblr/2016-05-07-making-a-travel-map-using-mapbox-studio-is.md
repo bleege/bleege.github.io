@@ -10,6 +10,8 @@ tags:
 - maps
 - travel
 - webmaps
+- web
+- projects
 tumblr_url: http://bleege.tumblr.com/post/144020013617/making-a-travel-map-using-mapbox-studio-is
 ---
 

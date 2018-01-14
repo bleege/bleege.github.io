@@ -5,9 +5,9 @@ date: '2013-11-15T11:13:00-06:00'
 tags:
 - mapbox
 - android
-- OpenStreetMap
-- open source
-- OSMDroid
+- openstreetmap
+- opensource
+- osmdroid
 tumblr_url: http://bleege.tumblr.com/post/67067786840/mapbox-on-android
 ---
 <!--excerpt.start-->

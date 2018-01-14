@@ -4,15 +4,19 @@ title: Mapbox Badgers
 date: '2016-08-27T14:33:37-05:00'
 tags:
 - mapbox
-- University of Wisconsin
+- university of wisconsin
 - wisconsin
 - geography
 - education
-- open source
-- open data
+- highered
+- opensource
+- opendata
 - openstreetmap
-- mobilee
+- mobile
+- ios
+- android
 - javascript
+- maps
 tumblr_url: http://bleege.tumblr.com/post/149566086932/mapbox-badgers
 ---
 

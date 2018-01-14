@@ -1,6 +1,6 @@
 name: Brad Leege
-# description: 
-# meta_description: 
+#description: Personal Web site of Brad Leege.
+meta_description: Personal Web site of Brad Leege.
 
 markdown: kramdown
 highlighter: pygments
@@ -8,11 +8,23 @@ logo: false
 baseurl: /
 domain_name: 'www.leege.io'
 google_analytics: 'UA-100713791-1'
-gems: [jekyll-paginate-v2]
+gems: 
+- jekyll-paginate-v2
+- jekyll-seo-tag
 
 # Details for the RSS feed generator
 url:            'http://www.leege.io'
 author:         'Brad Leege'
+
+# SEO
+twitter:
+  username: bradleege
+social:
+  name: Brad Leege
+  links:
+      - https://twitter.com/bradleege
+      - https://www.linkedin.com/in/bradleege
+      - https://github.com/bleege
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

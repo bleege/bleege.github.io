@@ -28,4 +28,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
-gem "pygments.rb", "1.2.1"
+gem "rouge", "3.1.0"

@@ -3,7 +3,7 @@ name: Brad Leege
 meta_description: Personal Web site of Brad Leege.
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 baseurl: /
 domain_name: 'www.leege.io'

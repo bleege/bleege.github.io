@@ -8,7 +8,7 @@ logo: false
 baseurl: /
 domain_name: 'www.leege.io'
 google_analytics: 'UA-100713791-1'
-gems: 
+plugins: 
 - jekyll-paginate-v2
 - jekyll-seo-tag
 

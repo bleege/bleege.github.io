@@ -10,7 +10,9 @@ tags:
 - empathy
 tumblr_url: http://bleege.tumblr.com/post/119719036272/building-mapbox-mobile
 ---
+<!--excerpt.start-->
 This week’s official launch of [Mapbox Mobile](https://techcrunch.com/2015/05/21/mapbox-takes-on-apple-with-an-sdk-to-put-maps-into-ios-apps/) was the culmination of a lot of hard wark done by a dedicated team of people distributed around the globe.  The end product is amazing (seriously you [gotta play with this](https://www.mapbox.com/mobile/)) with an equally impressive tech list, but the real story is how we pulled this all off working together as a unified team.
+<!--excerpt.end-->
 
 This project certainly wasn’t anyone’s first rodeo, but it did come with a lot of unkowns.  Mapbox is a growing company which means new people coming on board and everyone working with people that they may not have worked with (or even met) before.  There were also **A LOT** of moving tech pieces that many hadn’t worked with before nor we even knew we needed until we got into the project.  Finally, did I mention that the team was distributed across 5 countries and 6 different timezones?
 

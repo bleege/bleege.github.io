@@ -10,7 +10,9 @@ tags:
 - userex
 tumblr_url: http://bleege.tumblr.com/post/74530063650/installing-my-nest-learning-thermostat
 ---
+<!--excerpt.start-->
 Santa brought us a [Nest Thermostat](https://nest.com/thermostat/meet-nest-thermostat/) this year for Christmas and life finally was kind enough to provide me some time to install it this afternoon.  I’ve been looking forward to doing so as the product has fascinated me for quite some time and the installation process didn’t do anything to dampen my interest.  From the packaging to the hardware to the user interface it’s [Apple](https://www.apple.com) DNA is readily apparent.  It even correctly guessed my Nest account (that I’d setup previously) when I was getting it hooked up to the Internet!  It just works.
+<!--excerpt.end-->
 
 The actual installation process was pretty easy.  Just documented what the 2 electrical wires were hooked up to in my previous Honeywell unit, popped the old unit off the wall by undoing it’s 2 screws, attached the Nest plate to the wall with 2 new screws, and then hooked the 2 electrical wires up to their well marked new connections in the Nest.  After that it was just like setting up a new iOS device.
 

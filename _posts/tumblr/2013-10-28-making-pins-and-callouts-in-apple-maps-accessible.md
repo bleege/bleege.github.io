@@ -11,7 +11,9 @@ tags:
 - apple
 tumblr_url: http://bleege.tumblr.com/post/65348339000/making-pins-and-callouts-in-apple-maps-accessible
 ---
+<!--excerpt.start-->
 Pins (aka location markers) and Callouts on instances of MKMapView are not automatically accessible to blind users via iOS’s VoiceOver feature.  The impact of this is that while blind users may be able to load your app’s map they won’t be able to find any of the content that you’ve placed on the map.  Thankfully, there’s an easy fix for this using the stock Accessibility framework that Apple provides in iOS.
+<!--excerpt.end-->
 
 Update your MKMapViewDelegate’s callOut and set annotationView objects to be accessible.
 

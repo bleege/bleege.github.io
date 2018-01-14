@@ -14,7 +14,6 @@ gems: [jekyll-paginate-v2]
 url:            'http://www.leege.io'
 author:         'Brad Leege'
 
-
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set

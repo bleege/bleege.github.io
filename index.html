@@ -33,11 +33,6 @@ pagination:
 
 <main id="content" class="content" role="main">
 
-
-    <div class="extra-pagination inner">
-        {% include pagination.html %}
-    </div>
-
     {% for post in paginator.posts %}
 
     <article class="post">
@@ -45,7 +40,14 @@ pagination:
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         </header>
         <section class="post-excerpt">
-            {{ post.excerpt  | strip_html }} <a class="read-more" href="{{ post.url }}">[Read more]</a>
+
+{% if post.content contains "<!--excerpt.start-->" and post.content contains "<!--excerpt.end-->" %}
+    {{ post.content | split:"<!--excerpt.start-->" | last | split: "<!--excerpt.end-->" | first) | strip_html  }}
+{% else %}
+    {{ post.excerpt | strip_html }}
+{% endif %}
+
+            <p><a class="read-more" href="{{ post.url }}">[Read more]</a></p>
         </section>
         <footer class="post-meta">
                 {{ post.date | date: '%B %d, %Y' }}

@@ -9,4 +9,6 @@ tumblr_url: http://bleege.tumblr.com/post/58510934500/reviewing-the-session-list
 
 ![](/tumblr_files/tumblr_mrok29tejG1rsjbmgo1_1280.jpg)
 
+<!--excerpt.start-->
 Reviewing the session list at #BarCampMad (at Engineering Centers Building)
+<!--excerpt.end-->

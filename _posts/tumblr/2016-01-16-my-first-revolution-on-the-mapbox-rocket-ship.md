@@ -7,7 +7,9 @@ tags:
 - anniversary
 tumblr_url: http://bleege.tumblr.com/post/137437597052/my-first-revolution-on-the-mapbox-rocket-ship
 ---
+<!--excerpt.start-->
 This past week I was excited to celebrate my first anniversary as a full time member of [Mapbox](https://www.mapbox.com)!  It’s been a fantastic experience where I’ve been able to learn many new things and gotten to explore cities that I previously hadn’t spent much time in.  My favorite part by far though has been getting to meet and more importantly getting to know a great group of people.  This is simulateously the  most empathetic, good humored, and smartest group of people that I’ve ever worked with.  It’s the combination of these traits that makes possible what we have been able to achieve together.
+<!--excerpt.end-->
 
 Speaking of which, it’s hard to believe but in just this one year we:
 

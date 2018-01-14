@@ -14,4 +14,6 @@ tumblr_url: http://bleege.tumblr.com/post/75100466838/moving-to-a-reactive-data-
 
 [Moving To A Reactive Data Server](http://devblog.uc.wisc.edu/blog/reactive-proxy-server/)
 
+<!--excerpt.start-->
 Cross post of my article earlier this week on the [UW Developers Blog](http://devblog.uc.wisc.edu/) about my recent work migrating Mobile UW’s data server from a traditional synchronous Java Web application to an asynchronous, reactive Web application.
+<!--excerpt.end-->

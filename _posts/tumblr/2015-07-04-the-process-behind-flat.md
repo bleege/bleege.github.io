@@ -14,7 +14,9 @@ tags:
 - startup
 tumblr_url: http://bleege.tumblr.com/post/123206744127/the-process-behind-flat
 ---
+<!--excerpt.start-->
 [Mapbox](https://www.mapbox.com) is a flat, decentralized organization with no org chart nor officially defined responsbilities.  It’s also made up of team members distributed across the globe with roughly equal numbers working in 1 of 4 physical offices as well as remotely from home offices.  To many people this type of environment may seem like chaos and impossible to build anything, none the less actually ship a major product.  I disagree.  [Mapbox Mobile](https://www.mapbox.com/mobile/) could only have been built in this environment.
+<!--excerpt.end-->
 
 [Mapbox Mobile](https://www.mapbox.com/mobile/) is a product that is encompasses many different technologies, features, designs, and philosophies.  There is no one city nor region in the world that could source the necessary people with the backgrounds and experiences needed to pull this off.
 

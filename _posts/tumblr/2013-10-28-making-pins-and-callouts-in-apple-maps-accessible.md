@@ -9,7 +9,7 @@ tags:
 - mapkit
 - mkmapview
 - apple
-- applemaps
+- apple maps
 tumblr_url: http://bleege.tumblr.com/post/65348339000/making-pins-and-callouts-in-apple-maps-accessible
 ---
 <!--excerpt.start-->

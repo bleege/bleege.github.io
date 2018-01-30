@@ -5,9 +5,99 @@
     <description></description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jan 2018 17:45:42 -0600</pubDate>
-    <lastBuildDate>Sun, 14 Jan 2018 17:45:42 -0600</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2018 22:52:39 -0600</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 22:52:39 -0600</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Making Location Edits To Apple Maps</title>
+        <description>&lt;p&gt;&lt;em&gt;tl;dr: Apple accepts location data additions and edits for Apple Maps via macOS Maps app.&lt;/em&gt;&lt;/p&gt;
+
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;As a traveler one of my favorite features about &lt;a href=&quot;https://www.apple.com/macos/photos/&quot;&gt;macOS Photos&lt;/a&gt; app is the map view that displays the location of each of my photos.  I love how this helps me remember my past travels as well as provides inspiration for places I have yet to visit.  Recently I imported some travel photos that did not have geolocation information needed to power the map display.  In order to get these photos to display on the map I had to geocode each photo.  While doing so I discovered several locations that Apple Maps didn’t currently have.  macOS Photos’s map works just fine with raw latitude / longitude coordinates for the photos but Apple Maps is much richer for all of us to have the locations labeled.  Thankfully Apple has a way to do this.
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;søfartsmonumentet&quot;&gt;Søfartsmonumentet&lt;/h4&gt;
+
+&lt;p&gt;One such location is the &lt;a href=&quot;https://bibliotek.kk.dk/ting/object/159004-lokalbibl%3A93057333&quot;&gt;Søfartsmonumentet&lt;/a&gt; in Copenhagen, Denmark.  It’s a memorial built after World War I and features the &lt;a href=&quot;https://en.wikipedia.org/wiki/Nike_(mythology)&quot;&gt;Greek goddess Nike&lt;/a&gt;.  It is located near the more famous Little Mermaid statue on the harbor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/søfartsmonumentet.jpg&quot; alt=&quot;Søfartsmonumentet&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;adding-the-location&quot;&gt;Adding The Location&lt;/h4&gt;
+
+&lt;p&gt;The first thing to do is to find and then mark the location on the map.  This is done via Control clicking on the point where the new location should appear.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/2.png&quot; alt=&quot;Drop Pin&quot; /&gt;
+&lt;em&gt;Drop Pin&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/3.png&quot; alt=&quot;Marked Location&quot; /&gt;
+&lt;em&gt;Marked Location&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;access-to-location-data-editor&quot;&gt;Access To Location Data Editor&lt;/h4&gt;
+
+&lt;p&gt;From the new pin tap the Info button to display the information Popover.  The “Report Issue” button is located at the bottom of the Popover and is what opens the location data editor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/4.png&quot; alt=&quot;Information Popover&quot; /&gt;
+&lt;em&gt;Information Popover&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/5.png&quot; alt=&quot;Report Issue Button&quot; /&gt;
+&lt;em&gt;Open Location Data Editor via Report Issue button&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;create-the-location-edits&quot;&gt;Create The Location Edits&lt;/h4&gt;
+
+&lt;p&gt;From the location data editor sheet are options available for creating the location edits.  In this case “Add A Place” is selected and the subsequent step by step workflow is followed through to it’s conclusion… Send to Apple!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/6.png&quot; alt=&quot;Location Data Editor Sheet&quot; /&gt;
+&lt;em&gt;Location Data Editor Sheet&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/9.png&quot; alt=&quot;Add Location Editor Final Step&quot; /&gt;
+&lt;em&gt;Add Location Editor Final Step&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;follow-up&quot;&gt;Follow Up&lt;/h4&gt;
+
+&lt;p&gt;Apple then usually takes about a week to review submissions and if they accept them then sends a notification to you via your Apple ID connected devices.  From there I’ve noticed that it usually takes another couple of weeks before the basemap is updated and shows the location.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/10.png&quot; alt=&quot;Newly Added Location Popover&quot; /&gt;
+&lt;em&gt;Newly Added Location Popover&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180129/11.png&quot; alt=&quot;Newly Added Location On Basemap&quot; /&gt;
+&lt;em&gt;Newly Added Location On Basemap&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy Mapping!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Jan 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//2018/01/29/edit-apple-maps.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/01/29/edit-apple-maps.html</guid>
+        
+        <category>apple</category>
+        
+        <category>apple maps</category>
+        
+        <category>macos</category>
+        
+        <category>iphone</category>
+        
+        <category>ios</category>
+        
+        <category>maps</category>
+        
+        <category>data</category>
+        
+        <category>photos</category>
+        
+        <category>travel</category>
+        
+        <category>geotag</category>
+        
+        <category>geocoding</category>
+        
+        <category>copenhagen</category>
+        
+        <category>denmark</category>
+        
+        
+      </item>
     
       <item>
         <title>Update site design</title>
@@ -49,27 +139,27 @@
         <link>http://localhost:4000//2017/06/17/economist-digital-mapping.html</link>
         <guid isPermaLink="true">http://localhost:4000//2017/06/17/economist-digital-mapping.html</guid>
         
-        <category>Economist</category>
+        <category>cconomist</category>
         
         <category>maps</category>
         
         <category>opendata</category>
         
-        <category>OpenStreetMap</category>
+        <category>openstreetmap</category>
         
-        <category>Google</category>
+        <category>google</category>
         
-        <category>Mapbox</category>
+        <category>mapbox</category>
         
-        <category>Mapillary</category>
+        <category>mapillary</category>
         
         <category>privacy</category>
         
         <category>mobile</category>
         
-        <category>iOS</category>
+        <category>ios</category>
         
-        <category>Android</category>
+        <category>android</category>
         
         
       </item>
@@ -294,37 +384,6 @@
         <category>startup</category>
         
         <category>process</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Building Mapbox Mobile</title>
-        <description>&lt;!--excerpt.start--&gt;
-&lt;p&gt;This week’s official launch of &lt;a href=&quot;https://techcrunch.com/2015/05/21/mapbox-takes-on-apple-with-an-sdk-to-put-maps-into-ios-apps/&quot;&gt;Mapbox Mobile&lt;/a&gt; was the culmination of a lot of hard wark done by a dedicated team of people distributed around the globe.  The end product is amazing (seriously you &lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;gotta play with this&lt;/a&gt;) with an equally impressive tech list, but the real story is how we pulled this all off working together as a unified team.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;This project certainly wasn’t anyone’s first rodeo, but it did come with a lot of unkowns.  Mapbox is a growing company which means new people coming on board and everyone working with people that they may not have worked with (or even met) before.  There were also &lt;strong&gt;A LOT&lt;/strong&gt; of moving tech pieces that many hadn’t worked with before nor we even knew we needed until we got into the project.  Finally, did I mention that the team was distributed across 5 countries and 6 different timezones?&lt;/p&gt;
-
-&lt;p&gt;So how’d we pull this off?  In a word: culture.  I’ve never been on a team that consistenty practices empathy, understanding for one another, openness, trust, and patience the way Mapbox does. Everybody on the team is it together and is there to support each other.  Whether that means helping someone understand new technology, being there to talk through an issue, asking questions, or even rearranging their work times to be available for others the members of the team consistently do this because they want to see not only the project succeed, but also their colleagues succeed.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 May 2015 18:46:36 -0500</pubDate>
-        <link>http://localhost:4000//2015/05/23/building-mapbox-mobile.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2015/05/23/building-mapbox-mobile.html</guid>
-        
-        <category>mapbox</category>
-        
-        <category>culture</category>
-        
-        <category>distributed</category>
-        
-        <category>trust</category>
-        
-        <category>empathy</category>
-        
-        <category>business</category>
-        
-        <category>startup</category>
         
         
       </item>

@@ -39,7 +39,7 @@ about: 'about.html'
         <section class="post-excerpt">
 
 {% if post.content contains "<!--excerpt.start-->" and post.content contains "<!--excerpt.end-->" %}
-    {{ post.content | split:"<!--excerpt.start-->" | last | split: "<!--excerpt.end-->" | first) | strip_html  }}
+    {{ post.content | split:"<!--excerpt.start-->" | last | split: "<!--excerpt.end-->" | first | strip_html }}
 {% else %}
     {{ post.excerpt | strip_html }}
 {% endif %}

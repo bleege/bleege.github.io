@@ -3,17 +3,17 @@ layout: post
 title: The Economist - "Not all roads lead to Google Maps"
 date: '2017-06-17T12:00:00-06:00'
 tags:
-- Economist
+- cconomist
 - maps
 - opendata
-- OpenStreetMap
-- Google
-- Mapbox
-- Mapillary
+- openstreetmap
+- google
+- mapbox
+- mapillary
 - privacy
 - mobile
-- iOS
-- Android
+- ios
+- android
 ---
 
 ![](/images/20170617-economist-digital-maps.jpg)

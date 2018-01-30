@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jan 2018 22:41:34 -0600</pubDate>
-    <lastBuildDate>Mon, 29 Jan 2018 22:41:34 -0600</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2018 22:52:39 -0600</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 22:52:39 -0600</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -139,27 +139,27 @@
         <link>http://localhost:4000//2017/06/17/economist-digital-mapping.html</link>
         <guid isPermaLink="true">http://localhost:4000//2017/06/17/economist-digital-mapping.html</guid>
         
-        <category>Economist</category>
+        <category>cconomist</category>
         
         <category>maps</category>
         
         <category>opendata</category>
         
-        <category>OpenStreetMap</category>
+        <category>openstreetmap</category>
         
-        <category>Google</category>
+        <category>google</category>
         
-        <category>Mapbox</category>
+        <category>mapbox</category>
         
-        <category>Mapillary</category>
+        <category>mapillary</category>
         
         <category>privacy</category>
         
         <category>mobile</category>
         
-        <category>iOS</category>
+        <category>ios</category>
         
-        <category>Android</category>
+        <category>android</category>
         
         
       </item>

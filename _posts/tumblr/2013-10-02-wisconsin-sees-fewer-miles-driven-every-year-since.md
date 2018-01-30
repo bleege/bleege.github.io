@@ -6,7 +6,7 @@ tags:
 - mobile
 - mobile uw
 - opendata
-- open goverment
+- open government
 - civic hacking
 tumblr_url: http://bleege.tumblr.com/post/62957912513/wisconsin-sees-fewer-miles-driven-every-year-since
 ---

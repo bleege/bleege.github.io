@@ -5,9 +5,85 @@
     <description></description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jan 2018 22:52:39 -0600</pubDate>
-    <lastBuildDate>Mon, 29 Jan 2018 22:52:39 -0600</lastBuildDate>
+    <pubDate>Thu, 24 May 2018 22:37:15 -0500</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 22:37:15 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>UIKonf 2018 Review</title>
+        <description>&lt;p&gt;&lt;em&gt;tl;dr: A collection of my favorite presentations from UIKonf, an independent technical and community conference for iOS developers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;I had the great pleasure to attend &lt;a href=&quot;http://www.uikonf.com&quot;&gt;UIKonf&lt;/a&gt; in Berlin, Germany last week.  It was a single track conference over two days that had a great balance of technical, business, and socially positive presentations.  I really enjoyed getting to meet and learn from some incredible people from around the world.  Here are some of my favorite presentations:
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;kamilah-taylor---tired-of-the-state-of-online-conversations--lets-do-something-about-it-&quot;&gt;Kamilah Taylor - Tired of the state of online conversations? 🙈🙉🙊 Let’s do something about it 💪&lt;/h4&gt;
+
+&lt;p&gt;A fantastic look at how today’s social media platforms’ internal business measures of success encourage the polarization, misinformation, and distrust we’re seeing in society.  More importantly, what people are starting to do to fix these problems.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Nx0cKEQcbz4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;john-sundell---the-magic-of-ui-testing&quot;&gt;John Sundell - The Magic of UI Testing&lt;/h4&gt;
+
+&lt;p&gt;Great advice on how to find the right balance between test coverage, utility, and speed.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YzuJoVnxJCw&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;carola-nitz---advanced-debugging-techniques&quot;&gt;Carola Nitz - Advanced Debugging Techniques&lt;/h4&gt;
+
+&lt;p&gt;A deep dive on some (not widely known) tools and techniques for finding and fixing issues with UIs and performance.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/578YdS2sNqk&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;dave-delong---the-laws-of-magic&quot;&gt;Dave DeLong - The Laws of Magic&lt;/h4&gt;
+
+&lt;p&gt;A brand new talk from Dave where he discusses 3 “laws” for building engaging experiences and apps.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gx9ywSNm1jM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;janina-kutyn---improving-scrolling-performance-through-gpu-optimisation&quot;&gt;Janina Kutyn - Improving Scrolling Performance through GPU Optimisation&lt;/h4&gt;
+
+&lt;p&gt;An introduction to how device CPU and GPU work together to produce smooth UIs and how you can improve their collaboration for your app.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ypPX8CJmRIY&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;vincent-garrigues---scaling-ios-a-story-of-technical-debt-and-how-to-get-through-it&quot;&gt;Vincent Garrigues - Scaling iOS, a story of technical debt, and how to get through it&lt;/h4&gt;
+
+&lt;p&gt;A story about the unitended consquences of rewriting the SoundCloud app, what the team learned from this experience, and how they used what they learned to succeed.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fmzA7cLyKv0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The entire set of conference presentations are &lt;a href=&quot;https://www.youtube.com/watch?v=Nx0cKEQcbz4&amp;amp;list=PLdr22uU_wISohI7PIhzq0gotGfKZl1lGo&quot;&gt;also available on YouTube&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 May 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2018/05/24/uikonf.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/05/24/uikonf.html</guid>
+        
+        <category>apple</category>
+        
+        <category>berlin</category>
+        
+        <category>community</category>
+        
+        <category>conferences</category>
+        
+        <category>germany</category>
+        
+        <category>iphone</category>
+        
+        <category>ios</category>
+        
+        <category>mobile</category>
+        
+        <category>people</category>
+        
+        <category>travel</category>
+        
+        <category>uikonf</category>
+        
+        
+      </item>
     
       <item>
         <title>Making Location Edits To Apple Maps</title>
@@ -345,45 +421,6 @@
         <category>mapbox</category>
         
         <category>anniversary</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Process Behind Flat</title>
-        <description>&lt;!--excerpt.start--&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt; is a flat, decentralized organization with no org chart nor officially defined responsbilities.  It’s also made up of team members distributed across the globe with roughly equal numbers working in 1 of 4 physical offices as well as remotely from home offices.  To many people this type of environment may seem like chaos and impossible to build anything, none the less actually ship a major product.  I disagree.  &lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;Mapbox Mobile&lt;/a&gt; could only have been built in this environment.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.mapbox.com/mobile/&quot;&gt;Mapbox Mobile&lt;/a&gt; is a product that is encompasses many different technologies, features, designs, and philosophies.  There is no one city nor region in the world that could source the necessary people with the backgrounds and experiences needed to pull this off.&lt;/p&gt;
-
-&lt;p&gt;The keys to making this all work is &lt;strong&gt;trust and communication&lt;/strong&gt;.  We implicity trust our colleagues that they’re going to make the best decisions possible for the questions that they see arise.  When they can’t on their own we not only value but greatly respect people for asking for input, guidance, and / or assistance.  Everyone knows that the team doesn’t succeed unless all it’s members succeed.&lt;/p&gt;
-
-&lt;p&gt;Open communication is the anchor in all of this.  We communicate constantly with one another using several different media.  &lt;a href=&quot;https://github.com/mapbox/&quot;&gt;GitHub&lt;/a&gt; tickets allow for detailing thought processes and iterating on ideas collaboratively.  We use &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; for real time chat to ask quick questions and for coordinating things on the fly.  While both GitHub and Slack are asychronous media, we use the power of the human voice daily to keep project momentum moving forward.&lt;/p&gt;
-
-&lt;p&gt;Voice can be incredibly powerful, but voice meetings can also be harmful if not managed correctly.  The whole point of our calls is to synchrously update everyone on what people have been working on, what they’ll be working on next, and what are blockers that they’re encountering.  Nothing more.  Nothing less.  The key to keeping them productive are simple and consisently applied rules that we all follow.  We always start with the most Eastern based person and move West person by person until everyone has a chance to give their updates.  This implicitly reminds people that there are others that need to give their updates and to keep their comments short and to the point (plus we also all really like geography).  To further drive the point home and keep us on task we also limit the calls to 15 minutes total.  The only variation on this is once per week we instead do a higher level topic discussion.  Those calls can go 20-30 minutes and are led by different team members depending on the topic that week.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Jul 2015 10:49:04 -0500</pubDate>
-        <link>http://localhost:4000//2015/07/04/the-process-behind-flat.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2015/07/04/the-process-behind-flat.html</guid>
-        
-        <category>mapbox</category>
-        
-        <category>culture</category>
-        
-        <category>trust</category>
-        
-        <category>communication</category>
-        
-        <category>tech</category>
-        
-        <category>business</category>
-        
-        <category>product</category>
-        
-        <category>startup</category>
-        
-        <category>process</category>
         
         
       </item>

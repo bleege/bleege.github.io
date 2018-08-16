@@ -4,7 +4,7 @@ title: Making Location Edits To Apple Maps
 date: 2018-01-29
 tags:
 - apple
-- apple maps
+- apple-maps
 - macos
 - iphone
 - ios

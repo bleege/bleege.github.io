@@ -3,13 +3,13 @@ layout: post
 title: Making Pins and Callouts in Apple Maps Accessible
 date: '2013-10-28T12:27:53-05:00'
 tags:
+- apple
+- apple-maps
 - accessibility
 - ios
 - maps
 - mapkit
 - mkmapview
-- apple
-- apple maps
 tumblr_url: http://bleege.tumblr.com/post/65348339000/making-pins-and-callouts-in-apple-maps-accessible
 ---
 <!--excerpt.start-->
@@ -36,7 +36,7 @@ Update your MKMapViewDelegate’s callOut and set annotationView objects to be a
 	}
 	return annotationView;
 }
-
 {% endhighlight %}
+
 
 Make sure any UIView that the MKMapView may be contained in the XIB has it’s accessibility option set to NO.  Not doing so will cause the map view to be accessible, when it’s only the pins and callouts that are desired.

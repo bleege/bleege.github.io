@@ -7,6 +7,7 @@ I’m Brad Leege and this is my personal Web site. I’m software engineer, trav
 
 I can also be found in various incarnations on:
 
+* [Flickr](https://www.flickr.com/photos/129164231@N02/)
 * [GitHub](https://github.com/bleege)
 * [LinkedIn](https://www.linkedin.com/in/bradleege/)
 * [OpenStreetMap](https://www.openstreetmap.org/user/bleege)

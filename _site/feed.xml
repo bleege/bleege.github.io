@@ -1,13 +1,380 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 May 2018 22:37:15 -0500</pubDate>
-    <lastBuildDate>Thu, 24 May 2018 22:37:15 -0500</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <title>Mediumish</title>
+    <description>Jekyll template, Medium styled, free for bloggers.</description>
+    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
+    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Nov 2020 22:38:53 -0600</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2020 22:38:53 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>UIKonf 2020 Goes Remote</title>
+        <description>&lt;!--excerpt.start--&gt;
+&lt;p&gt;The organizers of &lt;a href=&quot;https://uikonf.com&quot;&gt;UIKonf&lt;/a&gt; just announced that this year’s conference will be remote only due to COVID-19 pandemic.  I’m really glad that they did this to help in the fight against this disease while still allowing the conference to continue.  UIKonf has been my favorite tech conference due to it’s forward thinking and social nature and this year is shaping up to be no different.  The best part is now everyone can experience this for themselves for just € 100.
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;p&gt;Switching formats is not an easy nor inexpensive task, especially when it occurs a little over a month from dates of the conference (May 17 to May 19).  As such it’s very important to the iOS Community, and me personally, that we help the organizers out as best we can so that not only can UIKonf happen in 2020 but that it’s also able to survive for future years.  I’ve been lucky enough to get to know the organizers over the past few years personally and I can understand the pressure they’re under.&lt;/p&gt;
+
+&lt;p&gt;Here’s some options for how you can help:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Buy a &lt;a href=&quot;https://ti.to/uikonf/uikonf-2020&quot;&gt;Remote Ticket&lt;/a&gt; for € 100&lt;/li&gt;
+  &lt;li&gt;Make a &lt;a href=&quot;https://ti.to/uikonf/uikonf-2020/with/u-uwf4mk1cc&quot;&gt;Support Donation&lt;/a&gt; for € 100&lt;/li&gt;
+  &lt;li&gt;If you’ve previously bought a Regular Ticket for € 559 tell the organizers that you’d like to donate the € 459 conversion to Remote Ticket rebate that they’re offering.  It’s what I’ve done already and would happily do again.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 04 Apr 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/uikonf-remote/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/uikonf-remote/</guid>
+        
+        <category>apple</category>
+        
+        <category>berlin</category>
+        
+        <category>community</category>
+        
+        <category>conferences</category>
+        
+        <category>covid-19</category>
+        
+        <category>equality</category>
+        
+        <category>europe</category>
+        
+        <category>germany</category>
+        
+        <category>iphone</category>
+        
+        <category>ios</category>
+        
+        <category>livestream</category>
+        
+        <category>mobile</category>
+        
+        <category>pandemic</category>
+        
+        <category>people</category>
+        
+        <category>remote</category>
+        
+        <category>swift</category>
+        
+        <category>uikonf</category>
+        
+        <category>travel</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>UIKonf 2019 Review</title>
+        <description>&lt;!--excerpt.start--&gt;
+&lt;p&gt;This was my second time attending &lt;a href=&quot;http://uikonf.com&quot;&gt;UIKonf&lt;/a&gt; in Berlin and it more than lived up to my fondest &lt;a href=&quot;/2018/05/24/uikonf.html&quot;&gt;memories from UIKonf 2018&lt;/a&gt;.  I was pleasantly surprised by to find the so many people that I’d met and interacted with the previous year were back again and that they all remembered me!  It was truly being back amongst friends… even after a year’s time and 4400 miles travelled.
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;p&gt;As UIKonf is well known for, the quality and range of topics again this year was no different.  Traditionally the conference organizers utilize an anonymous Call For Proposal process to select the talks, but this year decided to have an &lt;a href=&quot;http://uikonf.com/2019/01/29/all-female-speaker-lineup.html&quot;&gt;“all-female speaker line up on stage”&lt;/a&gt;.  While this caused some consternation when it was announced, by far the feedback that I heard while there and my own personal experience being there was very positive.  &lt;strong&gt;UIKonf was still UIKonf.&lt;/strong&gt;  I think this was a great experiment and more importantly sets the bar much higher for other tech conferences in having more women as featured speakers going forward.  There should be no more excuses.  For more details about the reasoning behind this check out &lt;a href=&quot;https://www.hackingwithswift.com/articles/174/uikonf-goes-all-female-for-2019-speakers&quot;&gt;Hacking with Swift’s interview with conference organizer Sabine Geithner&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m already looking forward to attending again next year, but until then please enjoy a few of my favorite presentations from this year:&lt;/p&gt;
+
+&lt;h4 id=&quot;shannon-hughes---detangling-gesture-recognizers&quot;&gt;Shannon Hughes - Detangling Gesture Recognizers&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/yw1AVD_0_w8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;julie-yaunches---consistency-principle&quot;&gt;Julie Yaunches - Consistency Principle&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/3HoCsq6ijWY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;sally-shepard---swift-to-hack-hardware&quot;&gt;Sally Shepard - Swift to Hack Hardware&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/_LlNHWl7fqY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;füsun-wehrmann---from-heroic-leaders-to-high-performing-teams&quot;&gt;Füsun Wehrmann - From Heroic Leaders To High Performing Teams&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/2KsbaibzB04&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;ellen-shapiro---kotlinnative&quot;&gt;Ellen Shapiro - Kotlin/Native&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/dMm6zyW2i9I&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;kate-castellano---what-to-expect-when-you-are-templating-clues-approach-to-backend-driven-uis&quot;&gt;Kate Castellano - What to expect when you are templating? Clue’s approach to Backend Driven UIs&lt;/h4&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/_Dom_Fn87C0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;For more great talks please explore the full &lt;a href=&quot;https://www.youtube.com/playlist?list=PLdr22uU_wISr-FYeKblv3LMe_kHFzRFBw&quot;&gt;UIKonf 2019 Session Playlist&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Jun 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/unikonf/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/unikonf/</guid>
+        
+        <category>apple</category>
+        
+        <category>berlin</category>
+        
+        <category>community</category>
+        
+        <category>conferences</category>
+        
+        <category>diversity</category>
+        
+        <category>equality</category>
+        
+        <category>europe</category>
+        
+        <category>germany</category>
+        
+        <category>iphone</category>
+        
+        <category>ios</category>
+        
+        <category>kotlin</category>
+        
+        <category>mobile</category>
+        
+        <category>people</category>
+        
+        <category>swift</category>
+        
+        <category>uikonf</category>
+        
+        <category>travel</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Beautiful night along the Spree in Berlin</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/47974848422_bdace42811_k.jpg&quot; width=&quot;1536&quot; height=&quot;2048&quot; alt=&quot;Beautiful night along the Spree in Berlin.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 May 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/berlin-spree-photo/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/berlin-spree-photo/</guid>
+        
+        <category>berlin</category>
+        
+        <category>europe</category>
+        
+        <category>germany</category>
+        
+        <category>photos</category>
+        
+        <category>spree</category>
+        
+        <category>travel</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DotSwift 2019 Review</title>
+        <description>&lt;!--excerpt.start--&gt;
+&lt;p&gt;I attended the &lt;a href=&quot;https://2019.dotswift.io/&quot;&gt;DotSwift conference&lt;/a&gt; in Paris, France the last week of January.  It’s an afternoon of a series of 18 minute talks and 5 “lightning talks” that last 4 minutes all on topics related to Swift software development.  This conference brings together people from across Europe and North America and emphasizes presence / social interaction.  In fact one of my favorite things about the conferece was it’s “No Wifi” policy.  This encouraged attendees and presenters to talk with each other during breaks as well as enable attendees to give their full attention to the presentations.&lt;br /&gt;
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favorite presentations from the conference:&lt;/p&gt;
+
+&lt;h4 id=&quot;daniel-jalkut---just-enough-objective-c&quot;&gt;Daniel Jalkut - Just Enough Objective-C&lt;/h4&gt;
+
+&lt;p&gt;Discusses how even “Pure Swift” apps live in a world of Objective-C code.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eSxXmnmjYZk&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;mark-dalrymple---wht-is-tht&quot;&gt;Mark Dalrymple - Wh@t is th@t?&lt;/h4&gt;
+
+&lt;p&gt;A deep dive into what annotations are, how they work, and most interestly how to find them in the iOS SDK.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MPkMf7Pbp5c&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;janina-kutyn---catransform3d-you-dont-need-to-know-them&quot;&gt;Janina Kutyn - CATransform3D: You don’t need to know them&lt;/h4&gt;
+
+&lt;p&gt;Fascinating technical details about the math that powers Apple’s Core Animation APIs.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vZq09zB0sfU&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;soroush-khanlou---from-problem-to-solution&quot;&gt;Soroush Khanlou - From Problem to Solution&lt;/h4&gt;
+
+&lt;p&gt;A guide on how simplied solutions reveal themselves via iteration and abstraction.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3G_ffcgRLMw&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;To learn more about the conference make sure to checkout the conference &lt;a href=&quot;https://www.dotconferences.com/conference/dotswift-2019&quot;&gt;videos&lt;/a&gt; and &lt;a href=&quot;https://www.flickr.com/photos/97226415@N08/sets/72157676085258497/&quot;&gt;photos&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Feb 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/dotswift/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/dotswift/</guid>
+        
+        <category>apple</category>
+        
+        <category>community</category>
+        
+        <category>conferences</category>
+        
+        <category>dotswift</category>
+        
+        <category>europe</category>
+        
+        <category>france</category>
+        
+        <category>iphone</category>
+        
+        <category>ios</category>
+        
+        <category>mobile</category>
+        
+        <category>paris</category>
+        
+        <category>people</category>
+        
+        <category>swift</category>
+        
+        <category>travel</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Twice Is Nice! Simple Featured Again On Apple App Store</title>
+        <description>&lt;!--excerpt.start--&gt;
+&lt;p&gt;This week Apple is (again!) featuring the &lt;a href=&quot;https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8&quot;&gt;Simple Finance iOS app&lt;/a&gt; as the top budgeting app for college students. &lt;br /&gt;
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180822/simple-college-budgeting-app-store.png&quot; alt=&quot;Simple Featured On App Store&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;College is an exciting time that often also comes with many new responsiblities, not the least of which is learning how to manage money.  This can be a scary and difficult life skill to learn, especially with so many other things happening simulataneously.  I’m really excited to see our team’s work promoted as a tool for helping college students learn these skills in a safe, straightforward, and simple way.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 Aug 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/simple-college-budgeting-app-store-featured/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/simple-college-budgeting-app-store-featured/</guid>
+        
+        <category>apps</category>
+        
+        <category>apple</category>
+        
+        <category>appstore</category>
+        
+        <category>budget</category>
+        
+        <category>highered</category>
+        
+        <category>ios</category>
+        
+        <category>product</category>
+        
+        <category>simple-finance</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Simple Featured On Apple App Store</title>
+        <description>&lt;!--excerpt.start--&gt;
+&lt;p&gt;Today the &lt;a href=&quot;https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8&quot;&gt;Simple Finance iOS app&lt;/a&gt; was featured by Apple on the App Store under the category of “Best New Updates”. &lt;br /&gt;
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180814/simple-appstore-feature.png&quot; alt=&quot;Simple Featured On App Store&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The entire team at &lt;a href=&quot;https://www.simple.com&quot;&gt;Simple&lt;/a&gt; has been heads down this year building and shipping new features for our customers.  It’s incredibly gratifying to be recognized for our work and are thankful for it.  You can check these features for yourself by &lt;a href=&quot;https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8&quot;&gt;downloading the app&lt;/a&gt; and by reading about them on the Simple blog:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.simple.com/company/our-most-requested-feature-has-arrived&quot;&gt;Simple Expenses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.simple.com/company/there-when-you-need-it-introducing-the-emergency-fund-goal&quot;&gt;Emergency Fund Goal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.simple.com/company/goals-just-got-a-whole-lot-smarter&quot;&gt;Automated Goals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 14 Aug 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/simple-app-store-featured/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/simple-app-store-featured/</guid>
+        
+        <category>apps</category>
+        
+        <category>apple</category>
+        
+        <category>appstore</category>
+        
+        <category>best-new-updates</category>
+        
+        <category>ios</category>
+        
+        <category>product</category>
+        
+        <category>simple-finance</category>
+        
+        <category>updates</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tracking My Car's Mileage With Fuel App</title>
+        <description>&lt;p&gt;&lt;em&gt;tl;dr: I built (and open sourced) an iPhone X app to track my car’s fuel usage.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;I bought my current car in 2016 (Volkswagen Jetta  ❤️) and was interested in knowing how long (if at all) the advertised fuel efficicany of the car held up.  To do this I’ve been recording the mileage everytime I stop to refuel.  I have done this manually by recording the trip odometer, the amount of gas bought, what type of gas bought, etc and then entering it into a spreadsheet at home since I bought the car.  I’ve now been able to automate this process by creating an app for my personal iPhone X.
+&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;introducting-fuel&quot;&gt;Introducting Fuel&lt;/h3&gt;
+&lt;p&gt;Fuel is an app that allows me to record all the relevant fuel stop data while I’m at the gas station and then persist the data securely and privately in CloudKit.  This is such a time saver in addition to helping avoid forgetting to enter data at a later date.  It also lets me access these fuel stop records so I can track and compare the data over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180603/fuel-overview.png&quot; alt=&quot;Fuel Overview Map&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tech-used&quot;&gt;Tech Used&lt;/h3&gt;
+
+&lt;p&gt;I really like to explore new tools, libraries, and frameworks when I’m building personal projects and this was project was no different.  This time out I got to work with &lt;a href=&quot;https://github.com/ReactiveX/RxSwift&quot;&gt;RxSwift&lt;/a&gt;, &lt;a href=&quot;https://developer.apple.com/documentation/cloudkit&quot;&gt;CloudKit&lt;/a&gt;, and &lt;a href=&quot;https://github.com/Carthage/Carthage&quot;&gt;Carthage&lt;/a&gt; to name a few.  In addition to those tools for the app I also got to dive deeper on using mock objects in Swift to test architectural patterns as well the asychronous actions of RxSwift with &lt;a href=&quot;https://developer.apple.com/documentation/xctest/&quot;&gt;XCTest&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20180603/fuel-stop-detail.png&quot; alt=&quot;Fuel Overview Map&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;source-code-available&quot;&gt;Source Code Available&lt;/h3&gt;
+
+&lt;p&gt;While I’m handling distribution of the app to select devices via TestFlight and not publishing this app publically on the App Store, I am happy to make the source code available for others to see.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/bleege/Fuel&quot;&gt;https://github.com/bleege/Fuel&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jun 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/fuel-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/fuel-app/</guid>
+        
+        <category>apple-maps</category>
+        
+        <category>apps</category>
+        
+        <category>cars</category>
+        
+        <category>carthage</category>
+        
+        <category>cloudkit</category>
+        
+        <category>core-location</category>
+        
+        <category>iphone</category>
+        
+        <category>ios</category>
+        
+        <category>location</category>
+        
+        <category>mobile</category>
+        
+        <category>opensource</category>
+        
+        <category>personal-projects</category>
+        
+        <category>privacy</category>
+        
+        <category>rxswift</category>
+        
+        <category>swift</category>
+        
+        <category>testflight</category>
+        
+        <category>xctest</category>
+        
+        
+      </item>
     
       <item>
         <title>UIKonf 2018 Review</title>
@@ -57,8 +424,8 @@
 
 </description>
         <pubDate>Thu, 24 May 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//2018/05/24/uikonf.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2018/05/24/uikonf.html</guid>
+        <link>http://localhost:4000/mediumish-theme-jekyll/uikonf/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/uikonf/</guid>
         
         <category>apple</category>
         
@@ -67,6 +434,8 @@
         <category>community</category>
         
         <category>conferences</category>
+        
+        <category>europe</category>
         
         <category>germany</category>
         
@@ -143,12 +512,12 @@
 
 </description>
         <pubDate>Mon, 29 Jan 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000//2018/01/29/edit-apple-maps.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2018/01/29/edit-apple-maps.html</guid>
+        <link>http://localhost:4000/mediumish-theme-jekyll/edit-apple-maps/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/edit-apple-maps/</guid>
         
         <category>apple</category>
         
-        <category>apple maps</category>
+        <category>apple-maps</category>
         
         <category>macos</category>
         
@@ -184,8 +553,8 @@
 &lt;p&gt;Having a &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; powered Web site made this process much easier as it has an amazing community of people and tools surrounding it.  Thanks to this communinty I was able to find a new theme, &lt;a href=&quot;https://github.com/rosario/kasper&quot;&gt;Kasper&lt;/a&gt;, improved SEO support via the &lt;a href=&quot;https://github.com/jekyll/jekyll-seo-tag&quot;&gt;Jekyll-SEO plugin&lt;/a&gt;, and most importantly a wealth of information on the Web from other people to help learn how to customize things to my exact needs.  Thanks also to &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; for continuing to host this site.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Jan 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000//2018/01/14/update-site-design.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2018/01/14/update-site-design.html</guid>
+        <link>http://localhost:4000/mediumish-theme-jekyll/update-site-design/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/update-site-design/</guid>
         
         <category>jekyll</category>
         
@@ -196,231 +565,6 @@
         <category>markdown</category>
         
         <category>projects</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Economist - &quot;Not all roads lead to Google Maps&quot;</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/20170617-economist-digital-maps.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;!--excerpt.start--&gt;
-&lt;p&gt;This past week &lt;a href=&quot;http://www.economist.com&quot;&gt;The Economist&lt;/a&gt; published an article, &lt;a href=&quot;http://www.economist.com/news/business/21723173-not-all-roads-lead-google-maps-battle-territory-digital-cartography&quot;&gt;“The battle for territory in digital cartography”&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/halhod&quot;&gt;Hal Hodson&lt;/a&gt;, discussing how companies like &lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt; and &lt;a href=&quot;https://www.mapillary.com&quot;&gt;Mapillary&lt;/a&gt; are using community powered data from &lt;a href=&quot;https://www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;/a&gt;, crowdsourced imagery, and &lt;a href=&quot;https://www.mapbox.com/telemetry/&quot;&gt;anonymous real time GPS location data gathering from smartphones&lt;/a&gt; to compete with the likes of Google in the quest to develop autonomous vehicles.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;Needless to say, I’m absolutely thrilled to see how my work at Mapbox, building the anonymous real time GPS location data gathering technology in the &lt;a href=&quot;https://www.mapbox.com/ios-sdk/&quot;&gt;Mapbox iOS&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/android-sdk/&quot;&gt;Android SDKs&lt;/a&gt;, continues to power Mapbox’s business today (&lt;a href=&quot;https://www.mapbox.com/directions/&quot;&gt;Directions&lt;/a&gt;, &lt;a href=&quot;https://www.mapbox.com/drive/&quot;&gt;Mapbox Drive&lt;/a&gt;, Maps, etc) as well as set the company up for future success.  In addition to this, two major things that I’m also very proud of in regards to this work are that fact the data is &lt;em&gt;collected anonymously&lt;/em&gt; and that it’s &lt;em&gt;shared openly&lt;/em&gt;.  Unlike many other tech companies, Mapbox has &lt;strong&gt;no way&lt;/strong&gt; to tie collected location data to specific and named people.  This was done on purpose.  This focus on privacy not only helps people feel safe using the technology, but also allows Mapbox to publish / donate this location data to OpenStreetMap so that everyone can benefit with the latest in map data collected from the real world.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 17 Jun 2017 13:00:00 -0500</pubDate>
-        <link>http://localhost:4000//2017/06/17/economist-digital-mapping.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/06/17/economist-digital-mapping.html</guid>
-        
-        <category>cconomist</category>
-        
-        <category>maps</category>
-        
-        <category>opendata</category>
-        
-        <category>openstreetmap</category>
-        
-        <category>google</category>
-        
-        <category>mapbox</category>
-        
-        <category>mapillary</category>
-        
-        <category>privacy</category>
-        
-        <category>mobile</category>
-        
-        <category>ios</category>
-        
-        <category>android</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>New Web site</title>
-        <description>&lt;!--excerpt.start--&gt;
-&lt;p&gt;I’m excited to launch the next interation of my personal Web site today.  It brings back complete control over the content and design which will allow me to hopefully produce richer and more useful content.  I’ve also ported my site’s previous posts going back to 2012 so everything can be found on the same site.  I hope you enjoy it as much as I have creating it.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;For those curious about the technical specs, it’s static site built using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and a self customized version of the &lt;a href=&quot;https://github.com/jekyll/minima&quot;&gt;minima&lt;/a&gt; theme.  Finally, it’s hosted on &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Jun 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//2017/06/07/new-site.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/06/07/new-site.html</guid>
-        
-        <category>jekyll</category>
-        
-        <category>github</category>
-        
-        <category>web</category>
-        
-        <category>markdown</category>
-        
-        <category>projects</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mapbox Badgers</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/tumblr_files/tumblr_ocl2c1VZgZ1rsjbmgo1_1280.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;!--excerpt.start--&gt;
-&lt;p&gt;Come join us next week at Science Hall on the &lt;a href=&quot;https://www.wisc.edu&quot;&gt;University of Wisconsin-Madison&lt;/a&gt; campus as I team up my fellow &lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt; Badger alums and friends to present a hands-on workshop about working with open source geography tools.  We’ll be covering a range of topics from &lt;a href=&quot;https://www.openstreetmap.org&quot;&gt;OpenStreetMap&lt;/a&gt;, Javascript and the Web, building Mobile apps, and working with PostGIS.  Please bring questions and a laptop.  I look forward to seeing you there!
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;On Wisconsin!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Aug 2016 14:33:37 -0500</pubDate>
-        <link>http://localhost:4000//2016/08/27/mapbox-badgers.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/08/27/mapbox-badgers.html</guid>
-        
-        <category>mapbox</category>
-        
-        <category>university of wisconsin</category>
-        
-        <category>wisconsin</category>
-        
-        <category>geography</category>
-        
-        <category>education</category>
-        
-        <category>highered</category>
-        
-        <category>opensource</category>
-        
-        <category>opendata</category>
-        
-        <category>openstreetmap</category>
-        
-        <category>mobile</category>
-        
-        <category>ios</category>
-        
-        <category>android</category>
-        
-        <category>javascript</category>
-        
-        <category>maps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Making a Travel Map Using Mapbox Studio</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/tumblr_files/tumblr_o6u5ldOUv81rsjbmgo1_1280.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;!--excerpt.start--&gt;
-&lt;p&gt;Making a travel map using &lt;a href=&quot;https://www.mapbox.com/mapbox-studio/&quot;&gt;Mapbox Studio&lt;/a&gt; is incredibly fun and surprisingly quick to do.  I was able to create this map in less than 2 hours this afternoon by tweaking the stock Mapbox Dark style to remove visual clutter (Roads, City Names, Buildings, etc).  From there I uploaded a GeoJSON file that contained the US States outlines and names.  To finish it off I used the built it Data Filter tool to select the states that I’ve visited in order to color them blue.  To explore the map yourself it’s availalble at:
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://bleege.github.io/statesvisited/&quot;&gt;http://bleege.github.io/statesvisited/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you’re interested in making your own maps like this checkout the &lt;a href=&quot;https://www.mapbox.com/help/choropleth-studio-gl-pt-1/&quot;&gt;“Make a choropleth map with Mapbox part 1: create a style with Mapbox Studio”&lt;/a&gt; step by step tutorial.  It provides a great intoduction to the power and simplicity of the Mapbox Studio platform.&lt;/p&gt;
-
-&lt;p&gt;Happy Mapping!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 May 2016 21:00:49 -0500</pubDate>
-        <link>http://localhost:4000//2016/05/07/making-a-travel-map-using-mapbox-studio-is.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/05/07/making-a-travel-map-using-mapbox-studio-is.html</guid>
-        
-        <category>mapbox</category>
-        
-        <category>mapboxstudio</category>
-        
-        <category>geojson</category>
-        
-        <category>opendata</category>
-        
-        <category>maps</category>
-        
-        <category>travel</category>
-        
-        <category>webmaps</category>
-        
-        <category>web</category>
-        
-        <category>projects</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hey Mapbox How Do I Get To...</title>
-        <description>&lt;!--excerpt.start--&gt;
-&lt;p&gt;Earlier this month we released Android wrapper libraries for the Mapbox &lt;a href=&quot;https://www.mapbox.com/blog/android-geocoder-library/&quot;&gt;Geocoding&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/blog/android-directions-library/&quot;&gt;Directions&lt;/a&gt; API services to make adding Geocoding and Directions in your Android apps much easier.  Naturally I wanted to do just that so I built a demo app called &lt;a href=&quot;https://github.com/bleege/GoWhereISay&quot;&gt;Go Where I Say&lt;/a&gt; that uses Android’s stock Speech To Text API to generate Directions based on voice commands. Did I mention that Google Play Services is NOT required?  In other words it’s not only possible but it’s super easy to ask Mapbox for AND get directions to locations by using your voice inside your own apps without having to (rely on or) say “Hey Siri” or “Ok Google”.  Checkout out the &lt;a href=&quot;https://github.com/bleege/GoWhereISay&quot;&gt;source code&lt;/a&gt; to see for yourself how to add this to your own apps.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/tumblr_files/example-screen-recording.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Jan 2016 21:45:40 -0600</pubDate>
-        <link>http://localhost:4000//2016/01/30/hey-mapbox-how-do-i-get-to.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/01/30/hey-mapbox-how-do-i-get-to.html</guid>
-        
-        <category>mapbox</category>
-        
-        <category>voice</category>
-        
-        <category>android</category>
-        
-        <category>directions</category>
-        
-        <category>geocoding</category>
-        
-        <category>mobile</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>I'm So Pumped to be Back in the Mapbox Garage</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/p/BAulH5gTPyT/&quot;&gt;&lt;img src=&quot;/tumblr_files/tumblr_o17l89dXOY1rsjbmgo1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--excerpt.start--&gt;
-&lt;p&gt;I’m so pumped to be back in the @mapbox Garage this week! (at Mapbox)
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jan 2016 10:45:45 -0600</pubDate>
-        <link>http://localhost:4000//2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/01/19/im-so-pumped-to-be-back-in-the-mapbox-garage.html</guid>
-        
-        <category>mapbox</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>My First Revolution On The Mapbox Rocket Ship</title>
-        <description>&lt;!--excerpt.start--&gt;
-&lt;p&gt;This past week I was excited to celebrate my first anniversary as a full time member of &lt;a href=&quot;https://www.mapbox.com&quot;&gt;Mapbox&lt;/a&gt;!  It’s been a fantastic experience where I’ve been able to learn many new things and gotten to explore cities that I previously hadn’t spent much time in.  My favorite part by far though has been getting to meet and more importantly getting to know a great group of people.  This is simulateously the  most empathetic, good humored, and smartest group of people that I’ve ever worked with.  It’s the combination of these traits that makes possible what we have been able to achieve together.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaking of which, it’s hard to believe but in just this one year we:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Built and released mobile vector mapping SDKs for &lt;a href=&quot;https://www.mapbox.com/blog/mapbox-mobile/&quot;&gt;iOS&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/blog/mapbox-mobile-android/&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Released &lt;a href=&quot;https://www.mapbox.com/blog/announcing-mapbox-studio/&quot;&gt;Mapbox Studio&lt;/a&gt; for WYSIWYG vector map styling and design&lt;/li&gt;
-  &lt;li&gt;Grew the mobile team from 3 to 8 people&lt;/li&gt;
-  &lt;li&gt;Partnered with Twitter &lt;a href=&quot;https://www.mapbox.com/blog/custom-maps-with-twitter-fabric/&quot;&gt;on Twitter Fabric&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Partnered with NVIDIA to use the Mapbox Android SDK in their &lt;a href=&quot;https://blogs.nvidia.com/blog/2016/01/04/drive-px-ces-recap/&quot;&gt;DRIVE PX 2 platform announced at CES 2016&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Supported Nepal Earthqauke Relief &lt;a href=&quot;https://www.mapbox.com/blog/mapping-nepal/&quot;&gt;crisis mapping&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/blog/hot-nepal-fundraiser/&quot;&gt;fundraising&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All in all, it couldn’t have gone better from my perspective.  I’m incredibly grateful to be part of this team and to the people who helped get me here.&lt;/p&gt;
-
-&lt;p&gt;I can’t wait to see what we do together this year!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Jan 2016 16:32:15 -0600</pubDate>
-        <link>http://localhost:4000//2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/01/16/my-first-revolution-on-the-mapbox-rocket-ship.html</guid>
-        
-        <category>mapbox</category>
-        
-        <category>anniversary</category>
         
         
       </item>

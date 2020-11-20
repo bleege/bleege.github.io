@@ -1,5 +1,5 @@
 ---
-# Let's add a comment to make this file sass-y.
+# Add a comment to make this file sass-y.
 # Change this file for any custom CSS.
 ---
 
@@ -10,5 +10,6 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-	"syntax"
+	"syntax",
+    "starsnonscss"
 ;

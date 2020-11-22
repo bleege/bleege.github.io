@@ -2,6 +2,8 @@
 layout: post
 title: FC Finder
 date: '2012-12-08T22:58:00-06:00'
+image: tumblr_files/tumblr_meqz4qLxPg1rsjbmgo1_1280.png
+categories: [Projects, Maps, Soccer]
 tags:
 - beer
 - football
@@ -18,8 +20,6 @@ tags:
 - maps
 tumblr_url: http://bleege.tumblr.com/post/37532242820/this-is-my-latest-personal-project-called-fc
 ---
-
-![](/tumblr_files/tumblr_meqz4qLxPg1rsjbmgo1_1280.png)
 
 ![](/tumblr_files/tumblr_meqz4qLxPg1rsjbmgo2_1280.png)
 

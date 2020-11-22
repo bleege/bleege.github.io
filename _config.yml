@@ -2,8 +2,8 @@
 name: "Brad Leege"
 title: "Brad Leege"
 description: "Personal Web site of Brad Leege"
-favicon: 'assets/images/logo.png'
 baseurl: 
+permalink: /:year/:month/:day/:title.html
 google_analytics: 'UA-46278016-1'
 include: ["_pages"]
 

@@ -2,6 +2,8 @@
 layout: post
 title: Making a Travel Map Using Mapbox Studio
 date: '2016-05-07T21:00:49-05:00'
+image: tumblr_files/tumblr_o6u5ldOUv81rsjbmgo1_1280.png
+categories: [Projects, Maps, Mapbox, Travel]
 tags:
 - mapbox
 - mapboxstudio
@@ -14,8 +16,6 @@ tags:
 - projects
 tumblr_url: http://bleege.tumblr.com/post/144020013617/making-a-travel-map-using-mapbox-studio-is
 ---
-
-![](/tumblr_files/tumblr_o6u5ldOUv81rsjbmgo1_1280.png)
 
 <!--excerpt.start-->
 Making a travel map using [Mapbox Studio](https://www.mapbox.com/mapbox-studio/) is incredibly fun and surprisingly quick to do.  I was able to create this map in less than 2 hours this afternoon by tweaking the stock Mapbox Dark style to remove visual clutter (Roads, City Names, Buildings, etc).  From there I uploaded a GeoJSON file that contained the US States outlines and names.  To finish it off I used the built it Data Filter tool to select the states that I’ve visited in order to color them blue.  To explore the map yourself it’s availalble at:

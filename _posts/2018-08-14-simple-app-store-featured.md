@@ -2,6 +2,8 @@
 layout: post
 title: Simple Featured On Apple App Store
 date: 2018-08-14
+image: images/20180814/simple-appstore-feature.png
+categories: [ App Store, Simple, Featured ]
 tags:
 - apps
 - apple
@@ -16,8 +18,6 @@ tags:
 <!--excerpt.start-->
 Today the [Simple Finance iOS app](https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8) was featured by Apple on the App Store under the category of "Best New Updates".   
 <!--excerpt.end-->
-
-![Simple Featured On App Store](/images/20180814/simple-appstore-feature.png)
 
 
 The entire team at [Simple](https://www.simple.com) has been heads down this year building and shipping new features for our customers.  It's incredibly gratifying to be recognized for our work and are thankful for it.  You can check these features for yourself by [downloading the app](https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8) and by reading about them on the Simple blog:

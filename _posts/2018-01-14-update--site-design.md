@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Update site design
+date: 2018-01-14
+categories: [ Projects, Web, Open Source ]
 tags:
 - jekyll
 - github

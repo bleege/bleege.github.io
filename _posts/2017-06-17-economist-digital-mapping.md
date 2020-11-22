@@ -4,8 +4,9 @@ title: The Economist - "Not all roads lead to Google Maps"
 date: '2017-06-17T12:00:00-06:00'
 featured: true
 image: images/20170617-economist-digital-maps.jpg
+categories: [ OpenStreetMap, Mapbox, Maps, Data ]
 tags:
-- cconomist
+- economist
 - maps
 - opendata
 - openstreetmap
@@ -17,8 +18,6 @@ tags:
 - ios
 - android
 ---
-
-![](/images/20170617-economist-digital-maps.jpg)
 
 <!--excerpt.start-->
 This past week [The Economist](http://www.economist.com) published an article, ["The battle for territory in digital cartography"](http://www.economist.com/news/business/21723173-not-all-roads-lead-google-maps-battle-territory-digital-cartography) by [Hal Hodson](https://twitter.com/halhod), discussing how companies like [Mapbox](https://www.mapbox.com) and [Mapillary](https://www.mapillary.com) are using community powered data from [OpenStreetMap](https://www.openstreetmap.org), crowdsourced imagery, and [anonymous real time GPS location data gathering from smartphones](https://www.mapbox.com/telemetry/) to compete with the likes of Google in the quest to develop autonomous vehicles.

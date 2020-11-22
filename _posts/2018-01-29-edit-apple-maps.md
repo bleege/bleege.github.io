@@ -4,6 +4,7 @@ title: Making Location Edits To Apple Maps
 date: 2018-01-29
 featured: true
 image: images/20180129/3.png
+categories: [ Apple, Maps, Data ]
 tags:
 - apple
 - apple-maps

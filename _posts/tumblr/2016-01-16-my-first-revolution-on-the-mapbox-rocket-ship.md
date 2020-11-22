@@ -2,6 +2,8 @@
 layout: post
 title: My First Revolution On The Mapbox Rocket Ship
 date: '2016-01-16T16:32:15-06:00'
+image: images/mapbox-logo-satellite.jpg
+categories: [Mapbox]
 tags:
 - mapbox
 - anniversary

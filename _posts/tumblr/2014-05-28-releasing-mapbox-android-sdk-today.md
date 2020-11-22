@@ -2,6 +2,8 @@
 layout: post
 title: Releasing Mapbox Android SDK Today
 date: '2014-05-28T19:06:49-05:00'
+image: tumblr_files/tumblr_inline_n6b6vijc9H1r9my52.gif
+categories: [Mapbox, Android, Product]
 tags:
 - mapbox
 - openstreetmap
@@ -17,5 +19,3 @@ I have had the great privilege of getting to work with the [Mapbox](https://www.
 <!--excerpt.end-->
 
 The project is also looking for more developers so if you’re interested you too can participate.  Just check it out on GitHub -> [https://github.com/mapbox/mapbox-android-sdk](https://github.com/mapbox/mapbox-android-sdk)
-
-![](/tumblr_files/tumblr_inline_n6b6vijc9H1r9my52.gif)

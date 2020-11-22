@@ -2,6 +2,7 @@
 layout: post
 title: Twice Is Nice! Simple Featured Again On Apple App Store
 date: 2018-08-22
+featured: true
 image: images/20180822/simple-college-budgeting-app-store.png
 categories: [ App Store, Simple, Featured ]
 tags:

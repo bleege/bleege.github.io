@@ -2,6 +2,7 @@
 layout: post
 title: Building Mapbox Mobile
 date: '2015-05-23T18:46:36-05:00'
+featured: true
 image: images/20150521-mapbox-mobile.png.webp
 categories: [Mapbox, iOS, Android, Culture]
 tags:

@@ -2,6 +2,8 @@
 layout: post
 title: Installing My Nest Learning Thermostat
 date: '2014-01-25T15:29:00-06:00'
+image: images/20140125-nest-thermostate.jpeg
+categories: [IOT, Home Improvement]
 tags:
 - nest
 - thermostat

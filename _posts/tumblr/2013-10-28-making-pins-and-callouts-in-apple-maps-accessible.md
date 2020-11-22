@@ -2,6 +2,8 @@
 layout: post
 title: Making Pins and Callouts in Apple Maps Accessible
 date: '2013-10-28T12:27:53-05:00'
+image: images/accessibility-symbol.png
+categories: [MapKit, Accessibility]
 tags:
 - apple
 - apple-maps

@@ -2,6 +2,8 @@
 layout: post
 title: Wisconsin Sees Fewer Miles Driven Every Year Since 2004
 date: '2013-10-02T21:23:30-05:00'
+image: images/madison-bus.jpg
+categories: [University of Wisconsin, Transit, Mobile]
 tags:
 - mobile
 - mobile uw

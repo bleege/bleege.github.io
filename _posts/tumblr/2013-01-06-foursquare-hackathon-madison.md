@@ -2,6 +2,8 @@
 layout: post
 title: Foursquare Hackathon Madison
 date: '2013-01-06T17:41:00-06:00'
+image: images/foursquare-logo.webp
+categories: [Community, Maps, Location]
 tags:
 - dotnet
 - hackathon

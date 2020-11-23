@@ -2,6 +2,8 @@
 layout: post
 title: OS X Yosemite Display Grays Out
 date: '2014-10-26T12:34:00-05:00'
+image: images/apple-mac-yosemite.jpg
+categories: [Apple]
 tags:
 - apple
 - osx

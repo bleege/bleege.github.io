@@ -2,6 +2,8 @@
 layout: post
 title: 'Mobile in Madison: Tweet Chat with Wisconsin''s Mobile Team'
 date: '2013-03-20T21:56:56-05:00'
+image: images/chris-j-davis-7ezFz2Hxd40-unsplash.jpg
+categories: [University of Wisconsin, Mobile, Education]
 tags:
 - mobile uw
 - mobile
@@ -23,3 +25,5 @@ Thanks again to [Jimmy Daly](https://twitter.com/jimmy_daly) and [Tara Buck](htt
 <!--excerpt.end-->
 
 Be sure to check out the a [recap of our Twitter chat via Storify](https://edtechmagazine.com/higher/wisconsin-mobile-tweet-chat).  
+
+<span style="font-style: italic;">Photo by <a href="https://unsplash.com/@chrisjdavis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris J. Davis</a> on <a href="https://unsplash.com/s/photos/twitter?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

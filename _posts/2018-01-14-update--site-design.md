@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Update site design
+date: 2018-01-14
+image: https://raw.githubusercontent.com/rosario/kasper/master/assets/images/kasper-theme-index.png
+categories: [ Projects, Web, Open Source ]
 tags:
 - jekyll
 - github

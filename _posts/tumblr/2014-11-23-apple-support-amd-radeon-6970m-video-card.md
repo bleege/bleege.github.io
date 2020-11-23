@@ -2,6 +2,8 @@
 layout: post
 title: 'Apple Support: AMD Radeon 6970M Video Card Replacement Program '
 date: '2014-11-23T19:18:29-06:00'
+image: images/apple-genius-bar-logo.png
+categories: [Apple]
 tags:
 - apple
 - imac

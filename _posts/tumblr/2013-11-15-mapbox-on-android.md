@@ -2,6 +2,8 @@
 layout: post
 title: MapBox On Android
 date: '2013-11-15T11:13:00-06:00'
+image: https://raw.githubusercontent.com/bleege/BikeMapBox/master/launch-screenshot.png
+categories: [Projects, Open Source, Mapbox]
 tags:
 - mapbox
 - android

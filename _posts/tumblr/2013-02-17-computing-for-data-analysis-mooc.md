@@ -2,6 +2,8 @@
 layout: post
 title: Computing For Data Analysis MOOC
 date: '2013-02-17T12:40:46-06:00'
+image: images/coursera-logo-square.png.webp
+categories: [Data Science, Johns Hopkins, Education]
 tags:
 - mooc
 - data

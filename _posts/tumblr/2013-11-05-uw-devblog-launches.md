@@ -2,6 +2,8 @@
 layout: post
 title: UW DevBlog Launches
 date: '2013-11-05T13:55:19-06:00'
+image: images/uw-logo-flush-web.png
+categories: [Community, University of Wisconsin]
 tags:
 - uw
 - university of wisconsin
@@ -25,3 +27,5 @@ A big congrats to the team for working across campus boundaries, persevering thr
 * [Dave Schroeder](https://twitter.com/DaveSchroeder)
 * [Bryan Shelton](https://twitter.com/bshelton229)
 * [Nick Weaver](https://twitter.com/nickweaver)
+
+<span style="font-style: italic;">Image copyright Univerity of Wisconsin System.</span>

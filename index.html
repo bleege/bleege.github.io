@@ -1,58 +1,61 @@
 ---
 layout: default
 title: Home
-cover: false
-about: 'about.html'
 ---
 
-<header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
-    <nav class="main-nav overlay clearfix">
-            {% if page.logo %}
-                <a class="blog-logo" href="{{ site.baseurl }}">
-                    <img src="{{ page.logo }}" alt="Blog Logo" />
-                </a>
-            {% endif %}
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">{{ site.name }}</h1>
-            <h2 class="page-description">
-                {% if page.about %} <a href='/about.html'> About me</a> {% endif %}
-                &nbsp;&nbsp;
-                <a href="/tags.html">Posts by tag</a>
-            </h2>
-        </div>
+{% if page.url == "/" %}
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
-</header>
+    <div class="row">
 
+    {% for post in site.posts %}
 
-<main id="content" class="content" role="main">
+        {% if post.featured == true %}
 
-    {% for post in paginator.posts %}
+            {% include featuredbox.html %}
 
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        </header>
-        <section class="post-excerpt">
-
-{% if post.content contains "<!--excerpt.start-->" and post.content contains "<!--excerpt.end-->" %}
-    {{ post.content | split:"<!--excerpt.start-->" | last | split: "<!--excerpt.end-->" | first | strip_html }}
-{% else %}
-    {{ post.excerpt | strip_html }}
-{% endif %}
-
-            <p><a class="read-more" href="{{ post.url }}">[Read more]</a></p>
-        </section>
-        <footer class="post-meta">
-                {{ post.date | date: '%B %d, %Y' }}
-        </footer>
-    </article>
+        {% endif %}
 
     {% endfor %}
 
-    {% include pagination.html %}
+    </div>
+</section>
 
-</main>
+{% endif %}
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Stories</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+

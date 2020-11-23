@@ -2,6 +2,8 @@
 layout: post
 title: UIKonf 2020 Goes Remote
 date: 2020-04-04
+image: images/20180524/uikonf-logo.svg
+categories: [ Conferences, Community, Berlin]
 tags:
 - apple
 - berlin

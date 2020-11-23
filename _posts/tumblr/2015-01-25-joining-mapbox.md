@@ -2,6 +2,8 @@
 layout: post
 title: Joining Mapbox
 date: '2015-01-25T12:47:02-06:00'
+image: tumblr_files/tumblr_inline_niqx81wsq21r9my52.png
+categories: [Mapbox, Mobile, Open Source]
 tags:
 - mapbox
 - mobile
@@ -12,8 +14,6 @@ tags:
 - opensource
 tumblr_url: http://bleege.tumblr.com/post/109123079862/joining-mapbox
 ---
-
-[![](/tumblr_files/tumblr_inline_niqx81wsq21r9my52.png)](https://www.mapbox.com)
 
 <!--excerpt.start-->
 Earlier this month I had the great fortune to officially [join the Mapbox team](https://www.mapbox.com/blog/welcome-brad-leege/).  Mapbox is an amazing [team of people](https://www.mapbox.com/about/team/) who build tools to allow everyone to create their own custom designed maps for the Web, mobile devices, or even a [canvas print for your wall](https://www.flickr.com/photos/mapbox/15487353502/)!

@@ -1,31 +1,43 @@
-name: Brad Leege
-#description: Personal Web site of Brad Leege.
-meta_description: Personal Web site of Brad Leege.
-
-markdown: kramdown
-highlighter: rouge
-logo: false
-baseurl: /
-domain_name: 'www.leege.io'
+# Site
+name: "Brad Leege"
+title: "Brad Leege"
+#description: "Personal Web site of Brad Leege"
+baseurl: ''
+permalink: /:year/:month/:day/:title.html
 google_analytics: 'UA-100713791-1'
-plugins_dir: 
-- jekyll-paginate
-- jekyll-seo-tag
+include: ["_pages"]
 
-# Paginate
-paginate: 5
-paginate_path: "/blog/page-:num/"
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
 
-# Details for the RSS feed generator
-url:            'http://www.leege.io'
-author:         'Brad Leege'
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-# SEO
-twitter:
-  username: bradleege
-social:
-  name: Brad Leege
-  links:
-      - https://twitter.com/bradleege
-      - https://www.linkedin.com/in/bradleege
-      - https://github.com/bleege
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,7 +1,7 @@
 # Site
 name: "Brad Leege"
 title: "Brad Leege"
-description: "Personal Web site of Brad Leege"
+#description: "Personal Web site of Brad Leege"
 baseurl: ''
 permalink: /:year/:month/:day/:title.html
 google_analytics: 'UA-100713791-1'

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mediumish</title>
-    <description>Jekyll template, Medium styled, free for bloggers.</description>
-    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
-    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Nov 2020 22:38:53 -0600</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2020 22:38:53 -0600</lastBuildDate>
+    <title>Brad Leege</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 22 Nov 2020 18:36:35 -0600</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2020 18:36:35 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Sat, 04 Apr 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/uikonf-remote/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/uikonf-remote/</guid>
+        <link>http://localhost:4000/2020/04/04/uikonf-remote.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/04/uikonf-remote.html</guid>
         
         <category>apple</category>
         
@@ -66,6 +66,12 @@
         
         <category>travel</category>
         
+        
+        <category>Conferences</category>
+        
+        <category>Community</category>
+        
+        <category>Berlin</category>
         
       </item>
     
@@ -106,8 +112,8 @@
 &lt;p&gt;For more great talks please explore the full &lt;a href=&quot;https://www.youtube.com/playlist?list=PLdr22uU_wISr-FYeKblv3LMe_kHFzRFBw&quot;&gt;UIKonf 2019 Session Playlist&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jun 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/unikonf/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/unikonf/</guid>
+        <link>http://localhost:4000/2019/06/23/unikonf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/23/unikonf.html</guid>
         
         <category>apple</category>
         
@@ -142,15 +148,21 @@
         <category>travel</category>
         
         
+        <category>Conferences</category>
+        
+        <category>Community</category>
+        
+        <category>Berlin</category>
+        
       </item>
     
       <item>
         <title>Beautiful night along the Spree in Berlin</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/47974848422_bdace42811_k.jpg&quot; width=&quot;1536&quot; height=&quot;2048&quot; alt=&quot;Beautiful night along the Spree in Berlin.&quot; /&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Fri, 31 May 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/berlin-spree-photo/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/berlin-spree-photo/</guid>
+        <link>http://localhost:4000/2019/05/31/berlin-spree-photo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/05/31/berlin-spree-photo.html</guid>
         
         <category>berlin</category>
         
@@ -164,6 +176,12 @@
         
         <category>travel</category>
         
+        
+        <category>Berlin</category>
+        
+        <category>Travel</category>
+        
+        <category>Photos</category>
         
       </item>
     
@@ -202,8 +220,8 @@
 &lt;p&gt;To learn more about the conference make sure to checkout the conference &lt;a href=&quot;https://www.dotconferences.com/conference/dotswift-2019&quot;&gt;videos&lt;/a&gt; and &lt;a href=&quot;https://www.flickr.com/photos/97226415@N08/sets/72157676085258497/&quot;&gt;photos&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Feb 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/dotswift/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/dotswift/</guid>
+        <link>http://localhost:4000/2019/02/03/dotswift.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/03/dotswift.html</guid>
         
         <category>apple</category>
         
@@ -232,6 +250,41 @@
         <category>travel</category>
         
         
+        <category>Conferences</category>
+        
+        <category>Community</category>
+        
+        <category>Paris</category>
+        
+      </item>
+    
+      <item>
+        <title>Eifel Tower At Night</title>
+        <description>
+</description>
+        <pubDate>Sun, 27 Jan 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2019/01/27/paris-eifel-tower-at-night.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/27/paris-eifel-tower-at-night.html</guid>
+        
+        <category>paris</category>
+        
+        <category>europe</category>
+        
+        <category>france</category>
+        
+        <category>photos</category>
+        
+        <category>eifel-tower</category>
+        
+        <category>travel</category>
+        
+        
+        <category>Paris</category>
+        
+        <category>Travel</category>
+        
+        <category>Photos</category>
+        
       </item>
     
       <item>
@@ -240,14 +293,12 @@
 &lt;p&gt;This week Apple is (again!) featuring the &lt;a href=&quot;https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8&quot;&gt;Simple Finance iOS app&lt;/a&gt; as the top budgeting app for college students. &lt;br /&gt;
 &lt;!--excerpt.end--&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/20180822/simple-college-budgeting-app-store.png&quot; alt=&quot;Simple Featured On App Store&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;College is an exciting time that often also comes with many new responsiblities, not the least of which is learning how to manage money.  This can be a scary and difficult life skill to learn, especially with so many other things happening simulataneously.  I’m really excited to see our team’s work promoted as a tool for helping college students learn these skills in a safe, straightforward, and simple way.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 22 Aug 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/simple-college-budgeting-app-store-featured/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/simple-college-budgeting-app-store-featured/</guid>
+        <link>http://localhost:4000/2018/08/22/simple-college-budgeting-app-store-featured.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/22/simple-college-budgeting-app-store-featured.html</guid>
         
         <category>apps</category>
         
@@ -266,6 +317,12 @@
         <category>simple-finance</category>
         
         
+        <category>App Store</category>
+        
+        <category>Simple</category>
+        
+        <category>Featured</category>
+        
       </item>
     
       <item>
@@ -273,8 +330,6 @@
         <description>&lt;!--excerpt.start--&gt;
 &lt;p&gt;Today the &lt;a href=&quot;https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8&quot;&gt;Simple Finance iOS app&lt;/a&gt; was featured by Apple on the App Store under the category of “Best New Updates”. &lt;br /&gt;
 &lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180814/simple-appstore-feature.png&quot; alt=&quot;Simple Featured On App Store&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The entire team at &lt;a href=&quot;https://www.simple.com&quot;&gt;Simple&lt;/a&gt; has been heads down this year building and shipping new features for our customers.  It’s incredibly gratifying to be recognized for our work and are thankful for it.  You can check these features for yourself by &lt;a href=&quot;https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8&quot;&gt;downloading the app&lt;/a&gt; and by reading about them on the Simple blog:&lt;/p&gt;
 
@@ -286,8 +341,8 @@
 
 </description>
         <pubDate>Tue, 14 Aug 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/simple-app-store-featured/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/simple-app-store-featured/</guid>
+        <link>http://localhost:4000/2018/08/14/simple-app-store-featured.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/14/simple-app-store-featured.html</guid>
         
         <category>apps</category>
         
@@ -305,6 +360,12 @@
         
         <category>updates</category>
         
+        
+        <category>App Store</category>
+        
+        <category>Simple</category>
+        
+        <category>Featured</category>
         
       </item>
     
@@ -336,8 +397,8 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/bleege/Fuel&quot;&gt;https://github.com/bleege/Fuel&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jun 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/fuel-app/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/fuel-app/</guid>
+        <link>http://localhost:4000/2018/06/03/fuel-app.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/06/03/fuel-app.html</guid>
         
         <category>apple-maps</category>
         
@@ -373,6 +434,14 @@
         
         <category>xctest</category>
         
+        
+        <category>Projects</category>
+        
+        <category>Cars</category>
+        
+        <category>Mobile</category>
+        
+        <category>iOS</category>
         
       </item>
     
@@ -424,8 +493,8 @@
 
 </description>
         <pubDate>Thu, 24 May 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/uikonf/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/uikonf/</guid>
+        <link>http://localhost:4000/2018/05/24/uikonf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/24/uikonf.html</guid>
         
         <category>apple</category>
         
@@ -451,6 +520,12 @@
         
         <category>uikonf</category>
         
+        
+        <category>Conferences</category>
+        
+        <category>Community</category>
+        
+        <category>Berlin</category>
         
       </item>
     
@@ -512,8 +587,8 @@
 
 </description>
         <pubDate>Mon, 29 Jan 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/edit-apple-maps/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/edit-apple-maps/</guid>
+        <link>http://localhost:4000/2018/01/29/edit-apple-maps.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/29/edit-apple-maps.html</guid>
         
         <category>apple</category>
         
@@ -542,30 +617,11 @@
         <category>denmark</category>
         
         
-      </item>
-    
-      <item>
-        <title>Update site design</title>
-        <description>&lt;!--excerpt.start--&gt;
-&lt;p&gt;Today I’m releasing an updated design to my Web site.  This new design provides a cleaner and more consistent UI design while also making it easier to find content by tag as well as share it via the various platforms.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;p&gt;Having a &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; powered Web site made this process much easier as it has an amazing community of people and tools surrounding it.  Thanks to this communinty I was able to find a new theme, &lt;a href=&quot;https://github.com/rosario/kasper&quot;&gt;Kasper&lt;/a&gt;, improved SEO support via the &lt;a href=&quot;https://github.com/jekyll/jekyll-seo-tag&quot;&gt;Jekyll-SEO plugin&lt;/a&gt;, and most importantly a wealth of information on the Web from other people to help learn how to customize things to my exact needs.  Thanks also to &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; for continuing to host this site.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Jan 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/update-site-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/update-site-design/</guid>
+        <category>Apple</category>
         
-        <category>jekyll</category>
+        <category>Maps</category>
         
-        <category>github</category>
-        
-        <category>web</category>
-        
-        <category>markdown</category>
-        
-        <category>projects</category>
-        
+        <category>Data</category>
         
       </item>
     

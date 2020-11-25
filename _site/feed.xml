@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brad Leege</title>
-    <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Nov 2020 18:36:35 -0600</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2020 18:36:35 -0600</lastBuildDate>
+    <description>Personal Web site of Brad Leege</description>
+    <link>www.leege.io/</link>
+    <atom:link href="www.leege.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Nov 2020 22:44:21 -0600</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2020 22:44:21 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Sat, 04 Apr 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020/04/04/uikonf-remote.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/04/04/uikonf-remote.html</guid>
+        <link>www.leege.io/2020/04/04/uikonf-remote.html</link>
+        <guid isPermaLink="true">www.leege.io/2020/04/04/uikonf-remote.html</guid>
         
         <category>apple</category>
         
@@ -112,8 +112,8 @@
 &lt;p&gt;For more great talks please explore the full &lt;a href=&quot;https://www.youtube.com/playlist?list=PLdr22uU_wISr-FYeKblv3LMe_kHFzRFBw&quot;&gt;UIKonf 2019 Session Playlist&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jun 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/06/23/unikonf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/06/23/unikonf.html</guid>
+        <link>www.leege.io/2019/06/23/unikonf.html</link>
+        <guid isPermaLink="true">www.leege.io/2019/06/23/unikonf.html</guid>
         
         <category>apple</category>
         
@@ -161,8 +161,8 @@
         <description>
 </description>
         <pubDate>Fri, 31 May 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/05/31/berlin-spree-photo.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/31/berlin-spree-photo.html</guid>
+        <link>www.leege.io/2019/05/31/berlin-spree-photo.html</link>
+        <guid isPermaLink="true">www.leege.io/2019/05/31/berlin-spree-photo.html</guid>
         
         <category>berlin</category>
         
@@ -220,8 +220,8 @@
 &lt;p&gt;To learn more about the conference make sure to checkout the conference &lt;a href=&quot;https://www.dotconferences.com/conference/dotswift-2019&quot;&gt;videos&lt;/a&gt; and &lt;a href=&quot;https://www.flickr.com/photos/97226415@N08/sets/72157676085258497/&quot;&gt;photos&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Feb 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/02/03/dotswift.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/03/dotswift.html</guid>
+        <link>www.leege.io/2019/02/03/dotswift.html</link>
+        <guid isPermaLink="true">www.leege.io/2019/02/03/dotswift.html</guid>
         
         <category>apple</category>
         
@@ -263,8 +263,8 @@
         <description>
 </description>
         <pubDate>Sun, 27 Jan 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/01/27/paris-eifel-tower-at-night.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/27/paris-eifel-tower-at-night.html</guid>
+        <link>www.leege.io/2019/01/27/paris-eifel-tower-at-night.html</link>
+        <guid isPermaLink="true">www.leege.io/2019/01/27/paris-eifel-tower-at-night.html</guid>
         
         <category>paris</category>
         
@@ -297,8 +297,8 @@
 
 </description>
         <pubDate>Wed, 22 Aug 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/08/22/simple-college-budgeting-app-store-featured.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/22/simple-college-budgeting-app-store-featured.html</guid>
+        <link>www.leege.io/2018/08/22/simple-college-budgeting-app-store-featured.html</link>
+        <guid isPermaLink="true">www.leege.io/2018/08/22/simple-college-budgeting-app-store-featured.html</guid>
         
         <category>apps</category>
         
@@ -341,8 +341,8 @@
 
 </description>
         <pubDate>Tue, 14 Aug 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/08/14/simple-app-store-featured.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/14/simple-app-store-featured.html</guid>
+        <link>www.leege.io/2018/08/14/simple-app-store-featured.html</link>
+        <guid isPermaLink="true">www.leege.io/2018/08/14/simple-app-store-featured.html</guid>
         
         <category>apps</category>
         
@@ -397,8 +397,8 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/bleege/Fuel&quot;&gt;https://github.com/bleege/Fuel&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jun 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/06/03/fuel-app.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/03/fuel-app.html</guid>
+        <link>www.leege.io/2018/06/03/fuel-app.html</link>
+        <guid isPermaLink="true">www.leege.io/2018/06/03/fuel-app.html</guid>
         
         <category>apple-maps</category>
         
@@ -493,8 +493,8 @@
 
 </description>
         <pubDate>Thu, 24 May 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/05/24/uikonf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/24/uikonf.html</guid>
+        <link>www.leege.io/2018/05/24/uikonf.html</link>
+        <guid isPermaLink="true">www.leege.io/2018/05/24/uikonf.html</guid>
         
         <category>apple</category>
         
@@ -587,8 +587,8 @@
 
 </description>
         <pubDate>Mon, 29 Jan 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2018/01/29/edit-apple-maps.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/29/edit-apple-maps.html</guid>
+        <link>www.leege.io/2018/01/29/edit-apple-maps.html</link>
+        <guid isPermaLink="true">www.leege.io/2018/01/29/edit-apple-maps.html</guid>
         
         <category>apple</category>
         

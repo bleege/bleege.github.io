@@ -1,8 +1,8 @@
 # Site
-name: "Brad Leege"
-title: "Brad Leege"
-#description: "Personal Web site of Brad Leege"
+name: 'Brad Leege'
+description: 'Personal Web site of Brad Leege'
 baseurl: ''
+domain_name: 'www.leege.io'
 permalink: /:year/:month/:day/:title.html
 google_analytics: 'UA-100713791-1'
 include: ["_pages"]
@@ -26,6 +26,20 @@ jekyll-archives:
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
+
+# SEO
+title: 'Brad Leege'
+url: 'www.leege.io'
+author: 'Brad Leege'
+twitter:
+  username: bradleege
+  card: summary
+social:
+  name: Brad Leege
+  links:
+    - https://twitter.com/bradleege
+    - https://www.linkedin.com/in/bradleege
+    - https://github.com/bleege
     
 # Other
 markdown: kramdown

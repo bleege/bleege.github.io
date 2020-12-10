@@ -5,9 +5,110 @@
     <description>Personal Web site of Brad Leege</description>
     <link>www.leege.io/</link>
     <atom:link href="www.leege.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Nov 2020 22:44:21 -0600</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2020 22:44:21 -0600</lastBuildDate>
+    <pubDate>Wed, 09 Dec 2020 20:09:46 -0600</pubDate>
+    <lastBuildDate>Wed, 09 Dec 2020 20:09:46 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>FCFinder V2 - Football (Soccer), GraphQL, and SwiftUI Pandemic Adventures</title>
+        <description>&lt;p&gt;&lt;!--excerpt.start--&gt;
+&lt;em&gt;FCFinder V2 is an application for displaying the locations of football clubs by league and by year.&lt;/em&gt;
+ &lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+
+&lt;p&gt;A combination of events earlier this year led me to my most recent personal side project, FC Finder V2.  Specificaly, I’d been wanting to explore &lt;a href=&quot;https://graphql.org&quot;&gt;GraphQL&lt;/a&gt; as well as start learning &lt;a href=&quot;https://developer.apple.com/documentation/swiftui/&quot;&gt;SwiftUI&lt;/a&gt;, especailly after Apple announced it’s second rev at WWDC in June.  My problem was that I couldn’t decide on a good way to do so until the timely combination of the COVID-19 pandemic and the &lt;a href=&quot;https://blog.mapbox.com/deprecating-studio-classic-styles-d8892ac38cb4&quot;&gt;deprecation of Mapbox Classic Map Styles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The European and North American pandemic shutdowns in the spring resulted in the last 2 months of the traditional season of football leagues in Europe being put on hold until pandemic could be managed in each country (except for the USA 🤦‍♂️).  Seasons traditionally start in August and end in May so that meant in order to begin the new 2020-2021 season many leagues had to first complete their 2019-2020 seasons.  The result was that there was a glut of football being broadcast in the USA over the summer as different countries’ leagues returned to finish their seasons and I became curious to learn more about these leagues and their clubs, many of which I’d never watched before.&lt;/p&gt;
+
+&lt;p&gt;I’d built a &lt;a href=&quot;/2012/12/08/this-is-my-latest-personal-project-called-fc.html&quot;&gt;Web application called FC Finder&lt;/a&gt; back in 2012 that mapped football leagues’ clubs and displayed the current favorite beers of the local supporters using the &lt;a href=&quot;https://untappd.com/api/docs&quot;&gt;Untappd API&lt;/a&gt;.  There were a couple of major problems with repurposing this Web app though, namely&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The hardcoded club rosters had become out of date due to &lt;a href=&quot;https://en.wikipedia.org/wiki/Promotion_and_relegation&quot;&gt;relegation&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;The map stopped displaying due to the End of Life of Mapbox Classic Map Styles.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;From this FCFinder V2 was born.&lt;/p&gt;
+
+&lt;h3 id=&quot;extensible-data-model-served-by-graphql&quot;&gt;Extensible Data Model Served By GraphQL&lt;/h3&gt;
+
+&lt;p&gt;Extensibility was the primary feature for the new system.  While the original had leagues and their clubs hardcoded client side, the new system needed to be able to support different countries, different league tiers, and different seasons.  To solve this problem I created a data model containing Clubs, Leagues, and Countries that were tied together via a lookup table called ClubsToLeagues running in &lt;a href=&quot;https://www.postgresql.org&quot;&gt;PostgreSQL&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I had never worked with GraphQL before so I was eager to find out for myself how it all operated and if it lived up to the hype.  I decided that I wanted to write the server application in &lt;a href=&quot;https://kotlinlang.org&quot;&gt;Kotlin&lt;/a&gt; and host it on &lt;a href=&quot;https://www.heroku.com&quot;&gt;Heroku&lt;/a&gt;.  I was really pleased to find and make use of &lt;a href=&quot;https://github.com/ExpediaGroup/graphql-kotlin&quot;&gt;Expedia’s GraphQL-Kotlin&lt;/a&gt; library for this project.  I found the library and examples to be exactly what I needed to not only wrap my head around how GraphQL worked but also how to then build out what I needed.  It integrated easily with the &lt;a href=&quot;http://sparkjava.com&quot;&gt;Spark Java Web framework&lt;/a&gt; and &lt;a href=&quot;https://github.com/JetBrains/Exposed&quot;&gt;JetBrain’s Exposed ORM&lt;/a&gt; to provide a clean multi-tiered architecture.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20201129/graphql-architecture.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of my favorite learnings about GraphQL is that generates API schema when run.  This is immensely helpful for confirming what has been built while in active development.  It’s also incredibly helpful for clients that will make use of the API.  That said, I found that it’s &lt;em&gt;absolutely imperative&lt;/em&gt; to use the &lt;a href=&quot;https://github.com/graphql/graphql-playground&quot;&gt;GraphQL Playground&lt;/a&gt; app to work with it.&lt;/p&gt;
+
+&lt;p&gt;Thanks to all of this open source software and community I was able to learn GraphQL and to build a functional GraphQL server that powers the client application.  To pay it forward I’ve also made my server code available on GitHub for others to see and hopefully learn from.  It’s available at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/bleege/FCFinderV2&quot;&gt;https://github.com/bleege/FCFinderV2&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;swiftui-client&quot;&gt;SwiftUI Client&lt;/h3&gt;
+
+&lt;p&gt;On the surface SwiftUI’s opinionated design, namely a stateless declaritive UI that reflects a dynamic data model, makes a lot of sense.  In essence it’s a classic &lt;a href=&quot;https://en.wikipedia.org/wiki/Model–view–viewmodel&quot;&gt;MVVM design pattern&lt;/a&gt;.  In practice though I found it to be more of a lift to wrap my head around it than I originally anticipated.  Specifically, the interplay of the new annotations &lt;code class=&quot;highlighter-rouge&quot;&gt;@ObservedObject&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;@Published&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;@State&lt;/code&gt; and their bindings to the View’s objects.  The biggest issue was with the &lt;a href=&quot;https://developer.apple.com/documentation/swiftui/picker&quot;&gt;Picker&lt;/a&gt; and getting it to track selections.  I eventually was able to settle on a solution by specifying a &lt;code class=&quot;highlighter-rouge&quot;&gt;.tag()&lt;/code&gt; for the &lt;a href=&quot;https://developer.apple.com/documentation/swiftui/text&quot;&gt;Text&lt;/a&gt; in each Picker and binding it the &lt;code class=&quot;highlighter-rouge&quot;&gt;@Published&lt;/code&gt; var in the ViewModel.  It makes sense now that it has been built but building it initially took more thought than I originally had expected.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/images/20201129/selection-ux.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Once I was able to nail down the data state binding issue I found the rest of the build out to be quite smooth.  The &lt;a href=&quot;https://developer.apple.com/documentation/combine&quot;&gt;Combine Framework&lt;/a&gt; is a very welcome shift in the Apple ecosystem to provide out of the box support for reactive applications.  I’m a big fan of &lt;a href=&quot;http://reactivex.io&quot;&gt;Rx&lt;/a&gt; so it’s nice to no longer have to bundle 3rd party libraries to build a reactive application.  Combine does a good job of providing a lot of the necessary glue that binds SwiftUI’s View and Model so this whole system works.  That said I did find that just like RxSwift really shines when paired with RxCocoa, Combine is very much missing that Widget wrapper layer.  Thankfully the &lt;a href=&quot;https://combine.community&quot;&gt;Combine Community&lt;/a&gt; is actively building out the &lt;a href=&quot;https://github.com/CombineCommunity/CombineCocoa&quot;&gt;CombineCocoa&lt;/a&gt; library to fill this gap.&lt;/p&gt;
+
+&lt;p&gt;I’ve also made the source code for the client available on GitHub.  Please feel free to explore it at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/bleege/FCFinderV2App&quot;&gt;https://github.com/bleege/FCFinderV2App&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;thoughts&quot;&gt;Thoughts&lt;/h3&gt;
+
+&lt;p&gt;I really enjoyed this project (not to mention definitely filled some of the time gap caused by the pandemic lockdown) and getting to wrap my head around both of these relatively new technologies.  I can see the merits of GraphQL, but like anything it’s not a one size fits all tool.  I think it’s major use case is going to be as an abstraction layer for existing data services.&lt;/p&gt;
+
+&lt;p&gt;As for SwiftUI, I think it’s a major step in the right direction for Apple.  That said it still feels a bit under baked (see &lt;a href=&quot;https://developer.apple.com/documentation/mapkit/map&quot;&gt;MapKit’s Map&lt;/a&gt;).  It’s also held back by being an iOS 13+ technology (and iOS 14+ only in cases like MapKit).  Thankfully iOS 12 usage numbers should finally start to dry up in many mainstream apps which will allow SwiftUI and Combine to start being used more.  I think Combine is actually going to lead when it comes to adoption as it’s easier to refactor existing app plumbing.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/images/20201129/london-club-map.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h3&gt;
+
+&lt;p&gt;Next on the TODO list to keep adding countries, leagues, and seasons to the data model.  I really love seeing the clubs mapped out, especially Tier 1 vs Tier 2 in the same country, as I find it an interesting way to learn about likely rivalries (derbys) between clubs as well as get a feel for some of the socio-economic situations for different clubs and their supporters.&lt;/p&gt;
+
+&lt;p&gt;I’m also considering adding macOS support to the client.  One of the promises of SwiftUI is that it’s relatively easy to be able to build apps that work well across all of Apple’s hardware and OS environments.  I’d like to get a feel for just how true that is.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 29 Nov 2020 00:00:00 -0600</pubDate>
+        <link>www.leege.io/2020/11/29/fcfinderv2.html</link>
+        <guid isPermaLink="true">www.leege.io/2020/11/29/fcfinderv2.html</guid>
+        
+        <category>iOS</category>
+        
+        <category>GraphQL</category>
+        
+        <category>Heroku</category>
+        
+        <category>Kotlin</category>
+        
+        <category>SwiftUI</category>
+        
+        <category>Swift</category>
+        
+        <category>PostgreSQL</category>
+        
+        <category>Projects</category>
+        
+        
+        <category>Projects</category>
+        
+        <category>SwiftUI</category>
+        
+        <category>GraphQL</category>
+        
+        <category>Kotlin</category>
+        
+        <category>iOS</category>
+        
+        <category>PostgreSQL</category>
+        
+      </item>
     
       <item>
         <title>UIKonf 2020 Goes Remote</title>
@@ -526,102 +627,6 @@
         <category>Community</category>
         
         <category>Berlin</category>
-        
-      </item>
-    
-      <item>
-        <title>Making Location Edits To Apple Maps</title>
-        <description>&lt;p&gt;&lt;em&gt;tl;dr: Apple accepts location data additions and edits for Apple Maps via macOS Maps app.&lt;/em&gt;&lt;/p&gt;
-
-&lt;!--excerpt.start--&gt;
-&lt;p&gt;As a traveler one of my favorite features about &lt;a href=&quot;https://www.apple.com/macos/photos/&quot;&gt;macOS Photos&lt;/a&gt; app is the map view that displays the location of each of my photos.  I love how this helps me remember my past travels as well as provides inspiration for places I have yet to visit.  Recently I imported some travel photos that did not have geolocation information needed to power the map display.  In order to get these photos to display on the map I had to geocode each photo.  While doing so I discovered several locations that Apple Maps didn’t currently have.  macOS Photos’s map works just fine with raw latitude / longitude coordinates for the photos but Apple Maps is much richer for all of us to have the locations labeled.  Thankfully Apple has a way to do this.
-&lt;!--excerpt.end--&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;søfartsmonumentet&quot;&gt;Søfartsmonumentet&lt;/h4&gt;
-
-&lt;p&gt;One such location is the &lt;a href=&quot;https://bibliotek.kk.dk/ting/object/159004-lokalbibl%3A93057333&quot;&gt;Søfartsmonumentet&lt;/a&gt; in Copenhagen, Denmark.  It’s a memorial built after World War I and features the &lt;a href=&quot;https://en.wikipedia.org/wiki/Nike_(mythology)&quot;&gt;Greek goddess Nike&lt;/a&gt;.  It is located near the more famous Little Mermaid statue on the harbor.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/søfartsmonumentet.jpg&quot; alt=&quot;Søfartsmonumentet&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;adding-the-location&quot;&gt;Adding The Location&lt;/h4&gt;
-
-&lt;p&gt;The first thing to do is to find and then mark the location on the map.  This is done via Control clicking on the point where the new location should appear.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/2.png&quot; alt=&quot;Drop Pin&quot; /&gt;
-&lt;em&gt;Drop Pin&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/3.png&quot; alt=&quot;Marked Location&quot; /&gt;
-&lt;em&gt;Marked Location&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;access-to-location-data-editor&quot;&gt;Access To Location Data Editor&lt;/h4&gt;
-
-&lt;p&gt;From the new pin tap the Info button to display the information Popover.  The “Report Issue” button is located at the bottom of the Popover and is what opens the location data editor.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/4.png&quot; alt=&quot;Information Popover&quot; /&gt;
-&lt;em&gt;Information Popover&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/5.png&quot; alt=&quot;Report Issue Button&quot; /&gt;
-&lt;em&gt;Open Location Data Editor via Report Issue button&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;create-the-location-edits&quot;&gt;Create The Location Edits&lt;/h4&gt;
-
-&lt;p&gt;From the location data editor sheet are options available for creating the location edits.  In this case “Add A Place” is selected and the subsequent step by step workflow is followed through to it’s conclusion… Send to Apple!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/6.png&quot; alt=&quot;Location Data Editor Sheet&quot; /&gt;
-&lt;em&gt;Location Data Editor Sheet&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/9.png&quot; alt=&quot;Add Location Editor Final Step&quot; /&gt;
-&lt;em&gt;Add Location Editor Final Step&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;follow-up&quot;&gt;Follow Up&lt;/h4&gt;
-
-&lt;p&gt;Apple then usually takes about a week to review submissions and if they accept them then sends a notification to you via your Apple ID connected devices.  From there I’ve noticed that it usually takes another couple of weeks before the basemap is updated and shows the location.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/10.png&quot; alt=&quot;Newly Added Location Popover&quot; /&gt;
-&lt;em&gt;Newly Added Location Popover&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/20180129/11.png&quot; alt=&quot;Newly Added Location On Basemap&quot; /&gt;
-&lt;em&gt;Newly Added Location On Basemap&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Happy Mapping!&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 29 Jan 2018 00:00:00 -0600</pubDate>
-        <link>www.leege.io/2018/01/29/edit-apple-maps.html</link>
-        <guid isPermaLink="true">www.leege.io/2018/01/29/edit-apple-maps.html</guid>
-        
-        <category>apple</category>
-        
-        <category>apple-maps</category>
-        
-        <category>macos</category>
-        
-        <category>iphone</category>
-        
-        <category>ios</category>
-        
-        <category>maps</category>
-        
-        <category>data</category>
-        
-        <category>photos</category>
-        
-        <category>travel</category>
-        
-        <category>geotag</category>
-        
-        <category>geocoding</category>
-        
-        <category>copenhagen</category>
-        
-        <category>denmark</category>
-        
-        
-        <category>Apple</category>
-        
-        <category>Maps</category>
-        
-        <category>Data</category>
         
       </item>
     

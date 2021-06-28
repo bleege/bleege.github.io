@@ -5,9 +5,9 @@
     <description>Personal Web site of Brad Leege</description>
     <link>www.leege.io/</link>
     <atom:link href="www.leege.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Dec 2020 20:09:46 -0600</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2020 20:09:46 -0600</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Sun, 27 Jun 2021 21:35:31 -0500</pubDate>
+    <lastBuildDate>Sun, 27 Jun 2021 21:35:31 -0500</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>FCFinder V2 - Football (Soccer), GraphQL, and SwiftUI Pandemic Adventures</title>
@@ -46,7 +46,7 @@
 
 &lt;h3 id=&quot;swiftui-client&quot;&gt;SwiftUI Client&lt;/h3&gt;
 
-&lt;p&gt;On the surface SwiftUI’s opinionated design, namely a stateless declaritive UI that reflects a dynamic data model, makes a lot of sense.  In essence it’s a classic &lt;a href=&quot;https://en.wikipedia.org/wiki/Model–view–viewmodel&quot;&gt;MVVM design pattern&lt;/a&gt;.  In practice though I found it to be more of a lift to wrap my head around it than I originally anticipated.  Specifically, the interplay of the new annotations &lt;code class=&quot;highlighter-rouge&quot;&gt;@ObservedObject&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;@Published&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;@State&lt;/code&gt; and their bindings to the View’s objects.  The biggest issue was with the &lt;a href=&quot;https://developer.apple.com/documentation/swiftui/picker&quot;&gt;Picker&lt;/a&gt; and getting it to track selections.  I eventually was able to settle on a solution by specifying a &lt;code class=&quot;highlighter-rouge&quot;&gt;.tag()&lt;/code&gt; for the &lt;a href=&quot;https://developer.apple.com/documentation/swiftui/text&quot;&gt;Text&lt;/a&gt; in each Picker and binding it the &lt;code class=&quot;highlighter-rouge&quot;&gt;@Published&lt;/code&gt; var in the ViewModel.  It makes sense now that it has been built but building it initially took more thought than I originally had expected.&lt;/p&gt;
+&lt;p&gt;On the surface SwiftUI’s opinionated design, namely a stateless declaritive UI that reflects a dynamic data model, makes a lot of sense.  In essence it’s a classic &lt;a href=&quot;https://en.wikipedia.org/wiki/Model–view–viewmodel&quot;&gt;MVVM design pattern&lt;/a&gt;.  In practice though I found it to be more of a lift to wrap my head around it than I originally anticipated.  Specifically, the interplay of the new annotations &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@ObservedObject&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@Published&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@State&lt;/code&gt; and their bindings to the View’s objects.  The biggest issue was with the &lt;a href=&quot;https://developer.apple.com/documentation/swiftui/picker&quot;&gt;Picker&lt;/a&gt; and getting it to track selections.  I eventually was able to settle on a solution by specifying a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.tag()&lt;/code&gt; for the &lt;a href=&quot;https://developer.apple.com/documentation/swiftui/text&quot;&gt;Text&lt;/a&gt; in each Picker and binding it the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@Published&lt;/code&gt; var in the ViewModel.  It makes sense now that it has been built but building it initially took more thought than I originally had expected.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
 &lt;img src=&quot;/images/20201129/selection-ux.png&quot; /&gt;

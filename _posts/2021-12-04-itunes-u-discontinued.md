@@ -18,9 +18,10 @@ tags:
 - Wisconsin
 ---
 
- <!--excerpt.start-->
+<!--excerpt.start-->
 _I'm incredibly proud to have been part of the team that created this product and it's global impact on education._
- <!--excerpt.end-->
+<!--excerpt.end-->
+
   
 [iTunes U](https://apps.apple.com/us/app/itunes-u/id490217893) is a course management sytem designed to enable instructors to manage their courses and students to learn on-the-go via Apple's market leading mobile device, the iPod.  Its original innovation was to support distribution of course documents, audio / visual materials, course lectures, and podcasting.  It is used around the world at such institutions as Stanford, Duke, UC Berkeley Harvard, Michigan, and Wisconsin.  After 14 years [Apple is now discontinuing iTunes U](https://support.apple.com/guide/itunesu/welcome/web) at the end of the year.
 

@@ -2,6 +2,7 @@
 layout: post
 title: The Process Behind Flat
 date: '2015-07-04T10:49:04-05:00'
+featured: true
 image: images/mapbox-logo-wordmark.png
 categories: [Culture, Mapbox, Distributed]
 tags:

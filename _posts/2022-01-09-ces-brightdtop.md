@@ -2,7 +2,7 @@
 layout: post
 title: "What We Built and Delivered In BrightDrop's 1st Year"
 date: 2022-01-09
-featured: false
+featured: true
 image: images/20220109/fedex-ev600-samh1694.jpg
 categories: [ BrightDrop, CES, delivery, distributed, EV, EV600, EV410, FedEx, GM, iOS, mobile, lastmile, logistics, remote, Walmart]
 tags:
@@ -27,7 +27,7 @@ tags:
 _We turned a proof of concept business plan announced at CES 2021 into production hardware and software while building out a company in a single year._
 <!--excerpt.end-->
 
-At CES 2022 this week [BrightDrop announced an expanded partnership with FedEx and new collaboration with Walmart to power their InHome delivery service](https://www.gobrightdrop.com/newsroom/brightdrop-announces-walmart-as-new-ev-customer-and-expands-collaboration-with-fedex-at-ces).  This was made possible by our ability to assemble a team of hardware and software engineers, product managers, sales, and leadership all distributed across North America in Atlanta, Detroit, San Francisco, Toronto, and remote who were able to hit the ground running as a collective.  Together we turned [business plans first announced at CES 2021](https://www.gobrightdrop.com/newsroom/gm-launches-brightdrop) into real life hardware and software that 
+At CES 2022 this week [BrightDrop announced an expanded partnership with FedEx and new collaboration with Walmart to power their InHome delivery service](https://www.gobrightdrop.com/newsroom/brightdrop-announces-walmart-as-new-ev-customer-and-expands-collaboration-with-fedex-at-ces).  This was made possible by our ability to assemble a team of hardware and software engineers, product managers, sales, and leadership all distributed across North America in Atlanta, Detroit, San Francisco, Toronto, and remote who were able to hit the ground running as a collective.  Together we turned [business plans first announced at CES 2021](https://www.gobrightdrop.com/newsroom/gm-launches-brightdrop) into real life hardware and software that proved our solutions to the market and more importantly to two major partners in FedEx and Walmart.
 
 My team was charged with building the software that our customers use to work with the EV delivery vechiles and e-Pallets.  I was one of the first mobile engineers hired in March 2021 and my focus was on designing the iOS application architecture that would easily scale to support:
 

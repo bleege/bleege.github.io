@@ -4,7 +4,7 @@ description: 'Personal Web site of Brad Leege'
 baseurl: ''
 domain_name: 'www.leege.io'
 permalink: /:year/:month/:day/:title.html
-google_analytics: 'UA-100713791-1'
+google_analytics: 'G-B5PX8DLP81'
 include: ["_pages"]
 
 # Plugins

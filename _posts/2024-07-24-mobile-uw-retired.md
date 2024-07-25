@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Wisconsin App Retires After 14 Years"
+date: 2024-07-24
+featured: true
+image: images/20240724/Wisconsin-App-Retirement-900x400-News-Image.jpg
+imagecaption: "&copy; University of Wisconsin-Madison"
+categories: [ Wisconsin, Universty of Wisconsin, Mobile UW, iOS, Android ]
+tags:
+- Wisconsin
+- Universty of Wisconsin
+- Mobile UW
+- iOS
+- Android
+---
+  
+<!--excerpt.start-->
+_U2:UV Achtung Baby Live At Sphere is the ultimate expression of what's possible at the Intersection of Liberal Arts & Technology._
+<!--excerpt.end-->
+
+I was fortunate to to attend [U2:UV Achtung Baby Live At Sphere](https://www.thespherevegas.com/shows/u2) on December 1st and was overwhelmed by the experience.  The sheer scale of the audio and visual presentations left me physically disoriented for an hour or so after the show.  It truly was a one of a kind experience.
+
+Processing things the next day all I could think about was [Steve Jobs's famous quote]( https://hbr.org/2011/08/steve-jobss-ultimate-lesson-fo):
+
+> “Technology alone is not enough. It’s technology married with the liberal arts, married with the humanities, that yields the results that makes our hearts sing.
+
+It's the alchemy of these two components, U2 and Sphere, that produces something so magical and greater than the sum of its parts.  On its own [Sphere](https://www.thespherevegas.com) is truly an engineering marvel, but ultimatley it's just a $2 Billion large metallic dome.  To truly realize and surpass its potential it is dependent upon the creativity of artists.  This is where [U2](https://www.u2.com) and their production team deliver with aplomb.  Long regarded as the one of the best live bands in the world, even U2 had to push themselves past their creative limits to truly produce a show of this scale.
+
+<figure>
+    <a href="https://www.flickr.com/photos/129164231@N02/53380823562/">
+        <img src="https://live.staticflickr.com/65535/53380823562_e57d1114dd_c.jpg" alt="Sphere Excskeleton LED lights">
+    </a>
+    <figcaption><i>Sphere's exoskeleten that's made up of over 1.2 million LED lights. &copy; 2023 Brad Leege</i></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://www.flickr.com/photos/129164231@N02/53382058759/">
+        <img src="https://live.staticflickr.com/65535/53382058759_6388597c85_c.jpg" alt="U2 performing with Las Vegas skyline projected on Sphere">
+    </a>
+    <figcaption><i>U2 performing with Las Vegas skyline projected on Sphere. &copy; 2023 Brad Leege</i></figcaption>
+</figure>
+
+
+Ultimately no amount of words, photos, nor videos (though [I'll try on my photo album](https://www.flickr.com/photos/129164231@N02/albums/72177720313208957)) can truly convey what this particular show is all about... it has to be experienced live and in person.  Thankfully U2 [just extended their run until March 2, 2024](https://www.billboard.com/music/rock/u2-las-vegas-residency-sphere-tickets-1235328384/) and I highly recommend going if you can.
+
+
+* ["U2 At Sphere Las Vegas: Alex Murphy Brings Up The Lights"](https://www.livedesignonline.com/concerts/u2-sphere-las-vegas-alex-murphy-brings-lights)
+* ["Behind U2's Residency at Sphere Las Vegas - Apple Music"](https://www.youtube.com/watch?v=El-a0rbmAIA)
+* ["A band, a brand, a spectacle, a Sphere - NPR"](https://www.npr.org/2023/10/24/1208060535/u2-las-vegas-residency-sphere)
+* ["Es Devlin's Nevada Ark"](https://esdevlin.com/work/the-sphere)

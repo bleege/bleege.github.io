@@ -2,7 +2,7 @@
 layout: post
 title: "End of an Era: Apple Discontinues iTunes U"
 date: 2021-12-04
-featured: true
+featured: false
 image: images/20211204/itunes-u-logo.png
 categories: [ Apple, education, highered, iPod, iTunes, iTunes U, mobile, product, podcasts, Wisconsin]
 tags:
